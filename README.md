@@ -1,6 +1,4 @@
-# daylightbasement.github.io
-
-## something
+## daylightbasement
 
 ### more something
 
