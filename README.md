@@ -1,5 +1,7 @@
 ## daylightbasement
 
-### more something
+### Lets kick this off
 
-wow what a time to be alive
+Introducing our main character...
+
+![We are calling him Mitch](./assets/introducing-mitch.gif)
