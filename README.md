@@ -1,3 +1,7 @@
+# We are DaylightBasementStudio
+
+A small indie dev studio focused on providing addicting games with personality
+
 # Rightfully, Beary Arms
 [dev blog](./DevBlog.md)
 
