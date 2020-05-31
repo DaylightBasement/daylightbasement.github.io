@@ -1,4 +1,4 @@
-# We are DaylightBasementStudio
+#DaylightBasementStudio
 
 A small indie dev studio focused on providing addicting games with personality
 
