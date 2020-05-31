@@ -1,6 +1,4 @@
-# DaylightBasementStudio
-
-## Rightfully, Beary Arms
+# Rightfully, Beary Arms
 [dev blog](./DevBlog.md)
 
 A quirky space roguelike about a bear in space.
