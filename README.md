@@ -1,8 +1,6 @@
 # DaylightBasementStudio
 
-A small indie dev studio focused on providing addicting games with personality
-
-# Rightfully, Beary Arms
+## Rightfully, Beary Arms
 
 *A quirky space roguelike about a bear in space.*
 
@@ -12,7 +10,7 @@ __Stay connected__
 
 [🏗️ dev blog](./DevBlog.md)
 
-## Beary Good Weapons
+### Beary Good Weapons
 
 Mr. B Arms using a salmon the best way he knows.
 
