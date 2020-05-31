@@ -1,13 +1,10 @@
 # daylightbasement
 
-### The Slappin' Salmon
+Game development studio working on our first title, _Rightfully, Beary Arms_
 
-What would a space bear use as a weapon? Maybe a salmon? Yeah, definitly a salmon.
+## Rightfully, Beary Arms
+[dev blog](./DevBlog.md)
 
-![The slappin' salmon](./assets/fish-finished.gif)
+A quirky space roguelike about a bear in space.
 
-### Lets kick this off
 
-Introducing our main character...
-
-![We are calling him Mitch](./assets/introducing-mitch.gif)
