@@ -10,12 +10,16 @@ __Stay connected__
 
 [🏗️ dev blog](./DevBlog.md)
 
-### Beary Good Weapons
+### Ton of beary great weapons
 
-Mr. B Arms using a salmon the best way he knows.
+#### salmon sword
 
 ![The slappin' salmon](./assets/fish-finished.gif)
 
-### Rouge like dugeon crawler
+#### Soaker Of the super
+
+![The slappin' salmon](./assets/water-gun-show-off.gif)
+
+### Roguelike dungeon crawler
 
 ![Navigation](./assets/overworld.gif)
