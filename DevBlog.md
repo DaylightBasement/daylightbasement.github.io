@@ -22,4 +22,4 @@ I think reflecting aids in learning, and also leads to appreciation. It is nice 
 
 0. **Keep scope small and realistic:** What time can you afford? Do you want to make a game engine? Or do you want to make a game? Should your first game be an RPG? This concept is difficult to learn and is very sobering; However, I promise you will accomplish more when expectations are appropriately set.
 
-What are your thoughts? How do you get things done? I am interested in learning. 
+What are your thoughts? How do you get things done? I am interested in learning. Let us know at our [🎮 Discord](https://discord.gg/5RmvYfN)
