@@ -12,7 +12,7 @@ I think reflecting aids in learning, and also leads to appreciation. It is nice 
 
 ![Progression](assets\progressions\progresssion_colors.gif)
 
-#### Patterns I Follow for Simple Progression
+#### Ideas for progression
 
 0. **Prioritize demonstrating some value over waiting to demonstrate all the value:** Getting feedback on something that is incomplete will allow for adjustments earlier on.
 
