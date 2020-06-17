@@ -20,4 +20,4 @@ I think reflecting aids in learning, and also leads to appreciation. It is nice 
 
 0. **Finality is a state a mind that is defined by you:** It is okay to say, _this is good enough_. Move on to the next concept. Test new ideas. Return to old ideas and refactor if needed.
 
-0. **Keep scope small and realistic:** What time can you afford? Can you really make your own engine? Should your first game really be an RPG? This concept is  difficult to learn and is very sobering; However, I promise you will accomplish more when expectations are appropriately set
+0. **Keep scope small and realistic:** What time can you afford? Do you want to make a game engine? Or do you want to make a game? Should your first game be an RPG? This concept is difficult to learn and is very sobering; However, I promise you will accomplish more when expectations are appropriately set.
