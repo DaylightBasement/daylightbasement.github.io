@@ -9,3 +9,11 @@ I find it hard to consider myself an artist. I've always been drawn to coding an
 I think reflecting aids in learning, and also leads to appreciation. It is nice to reflect on the abstract ideas that were shared at the start of this project then watch those ideas manifest into a minimal viable product of a game. We aimed for a post modernism color pallet. We started by agreeing on a color climate, which slowly progressed into mock ups, then the final game art seen below.
 
 ![Progression](assets\progressions\progresssion_colors.gif)
+
+#### Patterns I Follow for Simple Progression
+
+0. **Priotitize demostrating some value over waiting to demostrate all the value:** Getting feedback on something that is incomplete will allow for adjustments earlier on.
+
+0. **Prepare yourself for known feedback:** If presenting an incomplete idea, individuals will point that incompleteness. Listen for the comments you were not expecting.
+
+0. **Finality is a state a mind that is defined by you:** It is okay to say, _this is good enough_. Move on to the next concept. Test new ideas. Return to old ideas and refactor if needed.
