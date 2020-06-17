@@ -10,16 +10,28 @@ __Stay connected__
 
 [🏗️ dev blog](./DevBlog.md)
 
-### Ton of beary great weapons
+### Tons of beary great weapons
 
 #### salmon sword
 
 ![The slappin' salmon](./assets/fish-finished.gif)
 
-#### Soaker Of the super
+#### The alligator
 
-![The slappin' salmon](./assets/water-gun-show-off.gif)
+![The slappin' salmon](./assets/weapons/alligator.gif)
 
-### Roguelike dungeon crawler
+#### Mosin
 
-![Navigation](./assets/overworld.gif)
+![Mosin](./assets/weapons/mosin.gif)
+
+#### PPSH
+
+![PPSH](./assets/weapons/ppsh.gif)
+
+#### Squiter
+
+![Squiter](./assets/weapons/squiter.gif)
+
+### A Retro Space Themed Dungeon Crawler
+
+![Overworld](./assets/overworld.gif)
