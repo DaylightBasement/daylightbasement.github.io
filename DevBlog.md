@@ -14,6 +14,6 @@ I think reflecting aids in learning, and also leads to appreciation. It is nice 
 
 0. **Priotitize demostrating some value over waiting to demostrate all the value:** Getting feedback on something that is incomplete will allow for adjustments earlier on.
 
-0. **Prepare yourself for known feedback:** If presenting an incomplete idea, individuals will point that incompleteness. Listen for the comments you were not expecting.
+0. **Prepare yourself for known feedback:** If presenting an incomplete idea, individuals will point out that incompleteness. Listen for the comments you were not expecting.
 
 0. **Finality is a state a mind that is defined by you:** It is okay to say, _this is good enough_. Move on to the next concept. Test new ideas. Return to old ideas and refactor if needed.
