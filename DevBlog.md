@@ -1,5 +1,7 @@
 # Dev Blog
 
+[🌎 Rightfully, Beary Arms](./README.md)
+
 ## Progression of Colors
 
 ### 2020/06/17
