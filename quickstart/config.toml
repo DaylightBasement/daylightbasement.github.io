@@ -1,0 +1,43 @@
+baseURL = "http://daylightbasementstudio.com/"
+languageCode = "en-us"
+title = "Daylight Basement Studio"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[Params]
+  #homeTitle = "daylightbasementstudio # Set a different text for the header on the home page
+  subtitle = "Game development studio working on our first title: Rightfully, Beary Arms"
+  mainSections = ["post","posts"]
+  logo = "hotdoglogo.png" # Expecting square dimensions
+  favicon = "hotdoglogo.png"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+
+[Author]
+  name = "Some Person"
+  website = "yourwebsite.com"
+  email = "youremail@domain.com"
+  facebook = "username"
+  github = "username"
+  reddit = "username"
+  itchio = "username"
+
+[menu]
+  [[menu.main]]
+    identifier = "rba"
+    name = "rightfully beary arms"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/games/rightfullybearyarms/"
+    weight = -110
