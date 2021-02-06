@@ -1,1 +1,0 @@
-Game development studio working on our first title: Rightfully, Beary Arms

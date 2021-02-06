@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daylight Basement Studio</title>
+    <link>http://daylightbasementstudio.com/</link>
+    <description>Recent content on Daylight Basement Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Feb 2021 22:15:23 -0500</lastBuildDate><atom:link href="http://daylightbasementstudio.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rightfullybearyarms</title>
+      <link>http://daylightbasementstudio.com/games/rightfullybearyarms/</link>
+      <pubDate>Thu, 04 Feb 2021 22:15:23 -0500</pubDate>
+      
+      <guid>http://daylightbasementstudio.com/games/rightfullybearyarms/</guid>
+      <description>A quirky space roguelike about a bear in space.
+Stay connected
+🎮 Discord
+Tons of beary great weapons salmon sword The alligator Mosin PPSH Squiter A Retro Space Themed Dungeon Crawler </description>
+    </item>
+    
+    <item>
+      <title>Progression of Colors</title>
+      <link>http://daylightbasementstudio.com/posts/progression-of-colors/</link>
+      <pubDate>Wed, 17 Jun 2020 21:31:59 -0500</pubDate>
+      
+      <guid>http://daylightbasementstudio.com/posts/progression-of-colors/</guid>
+      <description>I find it hard to consider myself an artist. I&amp;rsquo;ve always been drawn to coding and building before what I consider traditional art. I&amp;rsquo;ve always had an interest in art, but never thought I was any good. I find, generally, that my art practices mimic my coding practices: I often start with abstract ideas then slowly progress to a well defined final product. I enjoy demonstrating that some idea has value: that a single idea might house value without investing an overbearing amount of resources to demonstrate said value.</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://daylightbasementstudio.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://daylightbasementstudio.com/about/</guid>
+      <description>Chris and Mike like games.</description>
+    </item>
+    
+  </channel>
+</rss>
