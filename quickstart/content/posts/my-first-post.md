@@ -2,6 +2,7 @@
 title: "Progression of Colors"
 date: 2020-06-17T21:31:59-05:00
 draft: true
+author: Chris
 ---
 
 I find it hard to consider myself an artist. I've always been drawn to coding and building before what I consider traditional art. I've always had an interest in art, but never thought I was any good. I find, generally, that my art practices mimic my coding practices: I often start with abstract ideas then slowly progress to a well defined final product. I enjoy demonstrating that some idea has value: that a single idea might house value without investing an overbearing amount of resources to demonstrate said value. I still have a lot to learn with art and game design, though. 

@@ -12,7 +12,8 @@ pygmentsCodefencesGuessSyntax = true
   #homeTitle = "daylightbasementstudio # Set a different text for the header on the home page
   subtitle = "Game development studio working on our first title: Rightfully, Beary Arms"
   mainSections = ["post","posts"]
-  logo = "hotdoglogo.png" # Expecting square dimensions
+  #logo = "smallbrand.png" # Expecting square dimensions
+  brand = "brand.png"
   favicon = "hotdoglogo.png"
   dateFormat = "January 2, 2006"
   commit = false
@@ -25,8 +26,24 @@ pygmentsCodefencesGuessSyntax = true
   delayDisqus = true
   showRelatedPosts = true
 
+[[Params.bigimg]]
+  src = "demovideo.gif"
+  desc = "tacos"
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "tacos"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+
 [Author]
-  name = "Some Person"
+  name = "Chris"
   website = "yourwebsite.com"
   email = "youremail@domain.com"
   facebook = "username"
@@ -34,10 +51,27 @@ pygmentsCodefencesGuessSyntax = true
   reddit = "username"
   itchio = "username"
 
-[menu]
-  [[menu.main]]
-    identifier = "rba"
-    name = "rightfully beary arms"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/games/rightfullybearyarms/"
-    weight = -110
+[[menu.main]]
+  identifier = "games"
+  name = "games"
+  url = "/games/rightfullybearyarms/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "rba"
+  parent = "games"
+  name = "rightfully beary arms"
+  url = "/games/rightfullybearyarms/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "blog"
+  name = "blog"
+  url = "/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  url = "/about/"
+  weight = 3
