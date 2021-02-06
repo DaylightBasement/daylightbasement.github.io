@@ -1,7 +1,7 @@
 ---
 title: "Rightfully, Beary Arms"
 date: 2021-02-04T22:15:23-05:00
-draft: true
+draft: false
 ---
 
 *A quirky space roguelike about a bear in space.*
