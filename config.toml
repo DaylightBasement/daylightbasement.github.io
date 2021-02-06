@@ -50,10 +50,16 @@ publishdir = "docs/"
   itchio = "mmbiscuits"
 
 [[menu.main]]
+  identifier = "blog"
+  name = "blog"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
   identifier = "games"
   name = "games"
   url = "/games/rightfullybearyarms/"
-  weight = 1
+  weight = 2
 
 [[menu.main]]
   identifier = "rba"
@@ -61,12 +67,6 @@ publishdir = "docs/"
   name = "rightfully beary arms"
   url = "/games/rightfullybearyarms/"
   weight = 1
-
-[[menu.main]]
-  identifier = "blog"
-  name = "blog"
-  url = "/"
-  weight = 2
 
 [[menu.main]]
   identifier = "about"
