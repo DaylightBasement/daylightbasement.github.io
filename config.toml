@@ -1,4 +1,4 @@
-baseURL = "http://daylightbasementstudio.com/"
+baseURL = "https://daylightbasementstudio.com/"
 languageCode = "en-us"
 title = "Daylight Basement Studio"
 theme = "beautifulhugo"
