@@ -1,0 +1,3 @@
+[submodule "quickstart/themes/beautifulhugo"]
+	path = quickstart/themes/beautifulhugo
+	url = git@github.com:DaylightBasement/beautifulhugo-db-branding.git
