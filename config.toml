@@ -29,7 +29,7 @@ publishdir = "docs/"
 
 [[Params.bigimg]]
   src = "demovideo.gif"
-  desc = "tacos"
+  desc = "Rightfully, Beary Arms"
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
 #  desc = "tacos"
