@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 publishdir = "docs/"
-googleAnalytics = "G-HHR42X7CE1"
+googleAnalytics = "UA-189102182-1"
 
 [Params]
   #homeTitle = "daylightbasementstudio # Set a different text for the header on the home page
