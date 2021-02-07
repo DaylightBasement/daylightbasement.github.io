@@ -47,7 +47,6 @@ googleAnalytics = "UA-189102182-1"
 [Author]
   name = "dbstudio"
   github = "DaylightBasement"
-  reddit = "mmbiscuits"
   itchio = "mmbiscuits"
 
 [[menu.main]]
