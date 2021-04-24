@@ -29,19 +29,8 @@ googleAnalytics = "UA-189102182-1"
   showRelatedPosts = true
 
 [[Params.bigimg]]
-  src = "demovideo.gif"
+  src = "reels/rba-reel.gif"
   desc = "Rightfully, Beary Arms"
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "tacos"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
-#  desc = "Sphere"
-#  # position: see values of CSS background-position.
-#  position = "center top"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
 
 
 [Author]
