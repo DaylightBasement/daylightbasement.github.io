@@ -11,7 +11,7 @@ Rightfully, Beary Arms is an `interstellar`; `planning`; `shoot'em up` rougelike
 
 {{< gallery caption-effect="fade" >}}
   {{< figure src="/stills/spider-bumble-ppsh-still.png" link="/reels/spider-bumble-ppsh.gif" caption="PPSH" alt="Beary fighting a spider">}}
-  {{< figure src="/stills/upgrades.png" link="/reels/upgrades.gif" caption="Plan your attack" alt="Planning is an important element of RBA">}}
+  {{< figure src="/stills/upgrades.png" link="/reels/upgrades.gif" caption="Upgrade Beary" alt="As you gain experience, upgrade beary to be... better.">}}
   {{< figure src="/stills/bull-charging-still.png" link="/reels/bull-charging.gif" caption="Watch out for bulls" alt="Beary fighting a charging bull">}}
   {{< figure src="/stills/world-nav-still.png" link="/reels/world-nav.gif" caption="Plan your attack" alt="Planning is an important element of RBA">}}
   {{< figure src="/stills/alligator-still.png" link="/reels/alligator2.gif" caption="Mind the kick" alt="The alligator is a powerful weapon">}}
