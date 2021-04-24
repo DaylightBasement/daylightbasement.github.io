@@ -6,7 +6,7 @@ draft: false
 
 *A quirky space roguelike about a bear in space.*
 
-Rightfully, Beary Arms is an `interstellar`; `planning`; `shoot'em up` rougelike. Take control of Beary Arms, a space bear, and his comical arsenal of weapons to eliminate  the enemy. Plan the route carefully and manage the inventory and Beary will get out alive. But be warned, even the smallest of mistakes can lead to Beary's death.
+Rightfully, Beary Arms is an `interstellar`; `planning`; `shoot'em up` rougelike. Take control of Beary Arms, a space bear, and his comical arsenal of weapons to eliminate  his enemies. Plan his route carefully and manage his inventory and Beary will get out alive. But be warned, even the smallest of mistakes can lead to Beary's death.
 
 
 {{< gallery caption-effect="fade" >}}
