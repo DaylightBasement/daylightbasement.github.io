@@ -4,7 +4,7 @@ date: 2021-02-04T22:15:23-05:00
 draft: false
 ---
 
-![rba logo rectangle](/rba/screen.png "Rightfully, Beary Arms")
+![rba logo rectangle](/rba/RBALOGO.png "Rightfully, Beary Arms")
 
 **A quirky space roguelike about a bear in space.**
 
@@ -22,9 +22,7 @@ _Rightfully, Beary Arms_ is an `interstellar`; `planning`; `shoot'em up` rougeli
   {{< figure src="/stills/inventory-still.png" link="/reels/inventory.gif" caption="Manage Loot" alt="Choose your loot wisely, a bear can only hold so much">}}
   {{< figure src="/stills/the-thinker-still.png" link="/reels/the-thinker.gif" caption="Explore Randomly generated ships" alt="Don't forget to stop and appreciate the beauty around you">}}
   {{< figure src="/stills/dont-die-still.png" link="/reels/dont-die.gif" caption="Try not to die" alt="Really, staying a live is tough for a bear in space">}}
-  {{< figure link="/rba/poster.png" caption="RBA poster" alt="poster">}}
-  {{< figure link="/rba/condensed.png" caption="RBA logo condensed" alt="rba">}}
-  {{< figure link="/rba/screen.png" caption="rba screen" alt="rba screen">}}
+  {{< figure link="/rba/rbaposter.png" caption="RBA poster" alt="poster">}}
 {{< /gallery >}}
 
 __Stay connected__
