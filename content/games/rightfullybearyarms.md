@@ -27,4 +27,6 @@ _Rightfully, Beary Arms_ is an `interstellar`; `planning`; `shoot'em up` rougeli
 
 __Stay connected__
 
-[🎮 Discord](https://discord.gg/5RmvYfN)
+- [🎮 Discord](https://discord.gg/5RmvYfN)
+- [👽 Subreddit](https://www.reddit.com/r/rightfullybearyarms/)
+- [📺 YouTube](https://www.youtube.com/channel/UCzTDyrptoPeAI7PSxHWb-Kg)
