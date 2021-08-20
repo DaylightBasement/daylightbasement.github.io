@@ -1,11 +1,13 @@
 /* --- General --- */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'JetBrains Mono', 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #404040;
+  color: #ebe9cb;
   position: relative;
-  background: #FFFAF3;
+  background: #1e2220;
+  background-image: url("/bg/planet.png");
+  background-repeat: repeat;
   display: flex;
   flex-flow: column;
   height: 100vh;
@@ -31,21 +33,21 @@ p + p {
 }
 p a {
   /* text-decoration: underline */
-  color: #ef4236;
+  color: #c14d2c;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'JetBrains Mono', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
-  color: #ef4236;
+  color: #c14d2c;
 }
 a:hover,
 a:focus {
-  color: #ef4236;
+  color: #c14d2c;
 }
 blockquote {
-  color: #808080;
+  color: #ebe9cb;
   font-style: italic;
 }
 blockquote p:first-child {
@@ -69,7 +71,7 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'JetBrains Mono', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 15px inherit;
 }
 
@@ -78,7 +80,7 @@ hr.small {
 }
 
 div.panel-body a.list-group-item {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'JetBrains Mono', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
   border-radius: 0;
   border: none;
@@ -98,12 +100,12 @@ div.panel-body a.list-group-item.view-all {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #ef4236;
+  background: #c14d2c;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #ef4236;
+  background: #c14d2c;
 }
 img::selection {
   color: white;
@@ -137,8 +139,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #DECEB5; /* FEEBCF  F5F5F5 */
-  border-bottom: 1px solid #EAEAEA;
+  background: #1e2220; /* FEEBCF  F5F5F5 */
+  border-bottom: 1px solid #c14d2c;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -151,14 +153,14 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #404040;
+  color: #ebe9cb;
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #ef4236;
+  color: #c14d2c;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -267,14 +269,14 @@ img {
   display: block;
   padding: 10px;
   padding-left: 30px;
-  background: #DECEB5;
+  background: #1e2220;
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
 }
 @media only screen and (max-width: 767px) {
   .navbar-custom .nav .navlinks-container.show-children {
-    background: #eee;
+    background: #c14d2c;
   }
   .navbar-custom .nav .navlinks-container.show-children .navlinks-children {
     display: block;
@@ -285,7 +287,7 @@ img {
     text-align: center;
   }
   .navbar-custom .nav .navlinks-container:hover {
-    background: #eee;
+    background: #1e2220;
   }
   .navbar-custom .nav .navlinks-container:hover .navlinks-children {
     display: block;
@@ -295,7 +297,7 @@ img {
   }
   .navbar-custom .nav .navlinks-container .navlinks-children a {
     padding-left: 10px;
-    border: 1px solid #eaeaea;
+    border: 1px solid #1e2220;
     border-width: 0 1px 1px;
   }
 }
@@ -304,14 +306,14 @@ img {
 
 footer {
   padding: 30px 0;
-  background: #DECEB5;
-  border-top: 1px #EAEAEA solid;
+  background: #1e2220;
+  border-top: 1px #c14d2c solid;
   margin-top: auto;
   font-size: 14px;
 }
 
 footer a {
-  color: #404040;
+  color: #c14d2c;
 }
 
 footer .list-inline {
@@ -344,7 +346,7 @@ footer .theme-by {
 
 .post-preview {
   padding: 20px 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #c14d2c;
 }
 
 @media only screen and (min-width: 768px) {
@@ -359,13 +361,13 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #404040;
+  color: #ebe9cb;
 }
 
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #ef4236;
+  color: #c14d2c;
 }
 
 .post-preview .post-title {
@@ -391,7 +393,7 @@ footer .theme-by {
 .post-preview .post-meta a,
 .post-heading .post-meta a,
 .page-meta a {
-  color: #404040;
+  color: #1e2220;
   text-decoration: none;
 }
 .post-preview .post-entry {
@@ -445,7 +447,7 @@ footer .theme-by {
 }
 
 .blog-tags a {
-  color: #ef4236;
+  color: #c14d2c;
   text-decoration: none;
   padding: 0px 5px;
 }
@@ -456,7 +458,7 @@ footer .theme-by {
 
 .blog-tags a:hover {
   border-radius: 2px;
-  color: #ef4236;
+  color: #c14d2c;
   background-color: #CCC;
 }
 
@@ -521,8 +523,8 @@ footer .theme-by {
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
   padding: 100px 0;
-  color: #FFFAF3;
-  text-shadow: 1px 1px 3px #000;
+  color: #ebe9cb;
+  text-shadow: 1px 1px 2px #1e2220;
 }
 .intro-header .page-heading h1,
 .intro-header .tags-heading h1,
@@ -595,7 +597,7 @@ footer .theme-by {
 
 .header-section.has-img .no-img {
   margin-top: 0;
-  background: #FCFCFC;
+  background: #ebe9cb;
   margin: 0 0 40px;
   padding: 20px 0;
   box-shadow: 0 0 5px #AAA;
@@ -646,9 +648,9 @@ footer .theme-by {
   font-weight: 800;
   letter-spacing: 1px;
   padding: 10px 5px;
-  background: #FFFAF3;
+  background: #c14d2c;
   border-radius: 0;
-  color: #404040;
+  color: #ebe9cb;
 }
 @media only screen and (min-width: 768px) {
   .pager li a {
@@ -658,8 +660,8 @@ footer .theme-by {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFFAF3;
-  background: #ef4236;
-  border: 1px solid #ef4236;
+  background: #c14d2c;
+  border: 1px solid #c14d2c;
 }
 
 .pager {
@@ -765,7 +767,7 @@ div.splitbox div.right {
   padding: 10px 5px;
   background: #FFFAF3;
   border-radius: 0;
-  color: #404040;
+  color: #1e2220;
 }
 @media only screen and (min-width: 768px) {
   .disqus-comments button {
@@ -775,8 +777,8 @@ div.splitbox div.right {
 .disqus-comments button:hover, 
 .disqus-comments button:focus {
   color: #FFFAF3;
-  background: #ef4236;
-  border: 1px solid #ef4236;
+  background: #c14d2c;
+  border: 1px solid #c14d2c;
 }
 
 /* Related posts */
