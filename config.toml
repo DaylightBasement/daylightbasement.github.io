@@ -37,6 +37,10 @@ googleAnalytics = "UA-189102182-1"
   name = "dbstudio"
   github = "DaylightBasement"
   itchio = "mmbiscuits"
+  # steam = "594650" app id
+  discord = "5RmvYfN"
+  youtube = "channel/UCzTDyrptoPeAI7PSxHWb-Kg"
+  subreddit = "rightfullybearyarms"
 
 [[menu.main]]
   identifier = "blog"
