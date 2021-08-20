@@ -24,7 +24,7 @@ googleAnalytics = "UA-189102182-1"
   readingTime = true
   wordCount = true
   useHLJS = true
-  socialShare = true
+  socialShare = false
   delayDisqus = true
   showRelatedPosts = true
 
