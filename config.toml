@@ -29,7 +29,7 @@ googleAnalytics = "UA-189102182-1"
   showRelatedPosts = true
 
 [[Params.bigimg]]
-  src = "rba/rbaposter.png"
+  src = "rba/rbaposterog2filter.png"
   desc = "Rightfully, Beary Arms"
 
 
