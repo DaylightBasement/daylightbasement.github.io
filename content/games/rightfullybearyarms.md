@@ -27,7 +27,7 @@ Beary likes to fight, how you chose your fight will impact your style. From wate
 
 # [Die](#Die)
 
-Don't worry kid, Beary doesn't die ya dig? He is an immortal. For each grizzly demise, Beary's world is altered: A calamity of sorts. You have influence on this calamity. Will an enemy faction gain a new enemy? Will enemies move faster? Deal more damage? Gain a new abilities? The choice is yours, it aint a good choice to have though.
+Don't worry kid, Beary doesn't die ya dig? He is an immortal. For each grizzly demise, Beary's world is altered: A calamity of sorts. You have influence on this calamity. Will an enemy faction gain a new enemy? Will enemies move faster? Deal more damage? Gain a new ability? The choice is yours, it ain't a good choice to have though.
 
 ![Ability tree](/reels/death.gif)
 
