@@ -7,11 +7,30 @@ draft: false
 
 ![Rightfully, Beary Arms](/rba/logo4.png)
 
+{{< youtube id="SA6elc10ygA" title="Playtesting hype video" >}}
+
 **A quirky space roguelike about a bear in space.**
 
 _Rightfully, Beary Arms_ is an `interstellar`; `planning`; `shoot'em up` roguelike. Take control of Beary Arms, a space bear, and his comical arsenal of weapons to eliminate  his enemies. Plan his route carefully and manage his inventory and Beary will get out alive. But bearware, even the smallest of missteps can lead to Beary's grizzly demise.
 
-{{< youtube id="SA6elc10ygA" title="Playtesting hype video" >}}
+# [Planning](#Planning)
+
+A core component to _Rightfully, Beary Arms_ is planning. Each run generates a random world and abilities tree which offers a unique combination of skills and planets to explore. Planning your set of skills and your warpath for a run is your best hope for keeping Beary alive. No playthough will generate the same experience, so your plan has to be thoughtful for each run.
+
+![Ability tree](/reels/abilities.gif)
+
+# [Beary's Arsenal](#BearysArsenal)
+
+Beary likes to fight, how you chose your fight will impact your style. From water guns to soviet era inspired rifles, find your favorite weapon to keep Beary alive.
+
+![Ability tree](/reels/mosin-firing.gif)
+
+# [Die](#Die)
+
+Don't worry kid, Beary doesn't die ya dig? He is an immortal. For each grizzly demise, Beary's world is altered: A calamity of sorts. You have influence on this calamity. Will an enemy faction gain a new enemy? Will enemies move faster? Deal more damage? Gain a new abilities? The choice is yours, it aint a good choice to have though.
+
+![Ability tree](/reels/death.gif)
+
 
 {{< gallery caption-effect="fade" >}}
   {{< figure src="/stills/mosin-firing.png" link="/reels/mosin-firing.gif" caption="Beary has a arsenal, use it" alt="Choose your favorite weapon and own the enemy">}}
