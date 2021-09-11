@@ -11,7 +11,7 @@ draft: false
 
 **A quirky space roguelike about a bear in space.**
 
-_Rightfully, Beary Arms_ is an `interstellar`; `planning`; `shoot'em up` roguelike. Take control of Beary Arms, a space bear, and his comical arsenal of weapons to eliminate  his enemies. Plan his route carefully and manage his inventory and Beary will get out alive. But bearware, even the smallest of missteps can lead to Beary's grizzly demise.
+_Rightfully, Beary Arms_ is an `interstellar`; `planning`; `shoot'em up` roguelike. Take control of Beary Arms, a space bear, and his comical arsenal of weapons to eliminate  his enemies. Plan his route carefully and manage his inventory to get Beary out alive. But bearware, even the smallest of missteps can lead to Beary's grizzly demise.
 
 # [Planning](#Planning)
 
@@ -21,13 +21,13 @@ A core component to _Rightfully, Beary Arms_ is planning. Each run generates a r
 
 # [Beary's Arsenal](#BearysArsenal)
 
-Beary likes to fight, how you chose your fight will impact your style. From water guns to soviet era inspired rifles, find your favorite weapon to keep Beary alive.
+Beary likes to fight. Choose between unique abilities and weapons to impact your fighting style. From water guns to soviet era inspired rifles, find your favorite weapon to keep Beary alive.
 
 ![Ability tree](/reels/mosin-firing.gif)
 
 # [Die](#Die)
 
-Don't worry kid, Beary doesn't die ya dig? He is an immortal. For each grizzly demise, Beary's world is altered: A calamity of sorts. You have influence on this calamity. Will an enemy faction gain a new enemy? Will enemies move faster? Deal more damage? Gain a new ability? The choice is yours, it ain't a good choice to have though.
+Don't worry kid, Beary doesn't die ya dig? He is an immortal. For each grizzly demise, Beary's world is altered: a calamity of sorts. You have influence on this calamity. Will an enemy faction gain a new enemy? Will enemies move faster? Deal more damage? Gain a new ability? The choice is yours. It ain’t a good choice to have, though.
 
 ![Ability tree](/reels/death.gif)
 
