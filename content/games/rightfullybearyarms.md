@@ -17,7 +17,7 @@ _Rightfully, Beary Arms_ is an `interstellar`; `planning`; `shoot'em up` rogueli
 
 A core component to _Rightfully, Beary Arms_ is planning. Each run generates a random world and abilities tree which offers a unique combination of skills and planets to explore. Planning your set of skills and your warpath for a run is your best hope for keeping Beary alive. No playthough will generate the same experience, so your plan has to be thoughtful for each run.
 
-{{< webm "/reels/planning2.webm" "/stills/abilities.png">}}
+{{< webm "/reels/planning2.webm" "/stills/abilties.png">}}
 
 # [Beary's Arsenal](#BearysArsenal)
 
