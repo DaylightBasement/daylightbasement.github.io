@@ -37,7 +37,7 @@ Don't worry kid, Beary doesn't die ya dig? He is an immortal. For each grizzly d
   {{< figure src="/stills/mosin-firing.png" link="/reels/mosin-firing.gif" caption="Beary has a arsenal, use it" alt="Choose your favorite weapon and own the enemy">}}
   {{< figure src="/stills/death.png" link="/reels/death.gif" caption="careful, dying is easy" alt="If you are not careful, Beary can be easily overwhelmed">}}
   {{< figure src="/stills/the-thinker-still.png" link="/reels/the-thinker.gif" caption="Explore Randomly generated ships" alt="Don't forget to stop and appreciate the beauty around you">}}
-  {{< figure link="/rba/rba-crash-poster.png" caption="Don't fall to Prey" alt="Don't fall to Prey">}}
+  {{< figure link="/rba/rba-crash-poster.png" caption="Don't fall Prey" alt="Don't fall Prey">}}
   {{< figure src="/stills/hurt.png" link="/reels/hurt.gif" caption="keep your cool and Beary will dominate" alt="Plan your fights and Beary will live">}}
   {{< figure link="/rba/rbaposterog2filter.png" caption="RBA poster" alt="poster">}}
   {{< figure src="/stills/nav-screen.png" link="/reels/nav-screen.gif" caption="Plan your attack" alt="Planning is an important element of RBA">}}
