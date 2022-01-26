@@ -44,4 +44,5 @@ Don't worry kid, Beary doesn't die ya dig? He is an immortal. For each grizzly d
   {{< figure src="/stills/bull-charging-still.png" link="/reels/bull-charging.gif" caption="Watch out for bulls" alt="Beary fighting a charging bull">}}
   {{< figure src="/stills/dont-die-still.png" link="/reels/dont-die.gif" caption="Try not to die" alt="Really, staying a live is tough for a bear in space">}}
   {{< figure link="/rba/spaceemblem.png" caption="rba space emblem" alt="space emblem">}}
+  {{< figure video="/rba/spaceemblem.png" caption="rba space emblem" alt="space emblem">}}
 {{< /gallery >}}
