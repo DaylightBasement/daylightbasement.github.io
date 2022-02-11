@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daylight Basement Studio</title>
+    <title>Daylight Basement Studio LLC</title>
     <link>https://daylightbasementstudio.com/</link>
-    <description>Recent content on Daylight Basement Studio</description>
+    <description>Recent content on Daylight Basement Studio LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jan 2022 00:42:16 -0400</lastBuildDate><atom:link href="https://daylightbasementstudio.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Feb 2022 00:42:16 -0400</lastBuildDate><atom:link href="https://daylightbasementstudio.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Be My Valentine</title>
+      <link>https://daylightbasementstudio.com/posts/valentines/</link>
+      <pubDate>Fri, 11 Feb 2022 00:42:16 -0400</pubDate>
+      
+      <guid>https://daylightbasementstudio.com/posts/valentines/</guid>
+      <description>Share the love! Send these digital valentine to friends and family!</description>
+    </item>
+    
     <item>
       <title>Pax East 2022</title>
       <link>https://daylightbasementstudio.com/posts/paxeast/</link>

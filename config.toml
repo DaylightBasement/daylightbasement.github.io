@@ -1,6 +1,6 @@
 baseURL = "https://daylightbasementstudio.com/"
 languageCode = "en-us"
-title = "Daylight Basement Studio"
+title = "Daylight Basement Studio LLC"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
