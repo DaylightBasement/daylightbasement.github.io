@@ -13,23 +13,27 @@ draft: false
 
 _Rightfully, Beary Arms_ is an `interstellar`; `planning`; `shoot'em up` roguelite. Take control of Beary Arms, a space bear, and his comical arsenal of weapons to eliminate  his enemies. Plan his route carefully and manage his inventory to get Beary out alive. But bearware, even the smallest of missteps can lead to Beary's grizzly demise.
 
-# [Planning](#Planning)
 
-A core component to _Rightfully, Beary Arms_ is planning. Each run generates a random world and abilities tree which offers a unique combination of skills and planets to explore. Planning your set of skills and your warpath for a run is your best hope for keeping Beary alive. No playthough will generate the same experience, so your plan has to be thoughtful for each run.
+![Planning](/banners/virtualbanner-planning.png)
 
 {{< webm "/reels/planning2.webm" "/stills/abilties.png">}}
 
-# [Beary's Arsenal](#BearysArsenal)
+A core component to _Rightfully, Beary Arms_ is planning. Each run generates a random world and abilities tree which offers a unique combination of skills and planets to explore. Planning your set of skills and your warpath for a run is your best hope for keeping Beary alive. No playthough will generate the same experience, so your plan has to be thoughtful for each run.
 
-Beary likes to fight. Choose between unique abilities and weapons to impact your fighting style. From water guns to soviet era inspired rifles, find your favorite weapon to keep Beary alive.
+![Arsenal](/banners/virtualbanner-arsenal.png)
 
 {{< webm "/reels/battree.webm" "/stills/battree.png">}}
 
-# [Die](#Die)
+Beary likes to fight. Choose between unique abilities and weapons to impact your fighting style. From water guns to soviet era inspired rifles, find your favorite weapon to keep Beary alive.
+
+
+![Die](/banners/virtualbanner-die.png)
+
+{{< webm "/reels/death2.webm" "/stills/death2.png">}}
 
 Don't worry kid, Beary doesn't die ya dig? He is an immortal. For each grizzly demise, Beary's world is altered: a calamity of sorts. You have influence on this calamity. Will an enemy faction gain a new enemy? Will enemies move faster? Deal more damage? Gain a new ability? The choice is yours. It ain’t a good choice to have, though.
 
-{{< webm "/reels/death2.webm" "/stills/death2.png">}}
+
 
 
 {{< gallery caption-effect="fade" >}}
