@@ -37,7 +37,6 @@ Don't worry kid, Beary doesn't die ya dig? He is an immortal. For each grizzly d
 
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure link="/rba/batteryPoster.png" caption="Batteries howling at the moon" alt="Batteries howling at the moon">}}
   {{< figure src="/stills/mosin-firing.png" link="/reels/mosin-firing.gif" caption="Beary has a arsenal, use it" alt="Choose your favorite weapon and own the enemy">}}
   {{< figure src="/stills/death.png" link="/reels/death.gif" caption="careful, dying is easy" alt="If you are not careful, Beary can be easily overwhelmed">}}
   {{< figure src="/stills/the-thinker-still.png" link="/reels/the-thinker.gif" caption="Explore Randomly generated ships" alt="Don't forget to stop and appreciate the beauty around you">}}
@@ -48,5 +47,4 @@ Don't worry kid, Beary doesn't die ya dig? He is an immortal. For each grizzly d
   {{< figure src="/stills/bull-charging-still.png" link="/reels/bull-charging.gif" caption="Watch out for bulls" alt="Beary fighting a charging bull">}}
   {{< figure src="/stills/dont-die-still.png" link="/reels/dont-die.gif" caption="Try not to die" alt="Really, staying a live is tough for a bear in space">}}
   {{< figure link="/rba/spaceemblem.png" caption="rba space emblem" alt="space emblem">}}
-  {{< figure video="/rba/spaceemblem.png" caption="rba space emblem" alt="space emblem">}}
 {{< /gallery >}}
