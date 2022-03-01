@@ -24,7 +24,7 @@ A core component to _Rightfully, Beary Arms_ is planning. Each run generates a r
 
 {{< webm "/reels/battree.webm" "/stills/battree.png">}}
 
-Beary likes to fight. Choose between unique abilities and weapons to impact your fighting style. From water guns to soviet era inspired rifles, find your favorite weapon to keep Beary alive.
+Beary likes to fight. Choose between unique abilities and weapons to impact your fighting style. From water guns to catling guns, find your favorite weapon to keep Beary alive.
 
 
 ![Die](/banners/virtualbanner-die.png)
