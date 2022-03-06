@@ -2,38 +2,59 @@
 <company>
   <title>Daylight Basement Studio</title>
   <based-in>Greater Boston</based-in>
-  <founding-date></founding-date>
-  <website></website>
+  <founding-date>2019</founding-date>
+  <website>https://daylightbasementstudio.com/</website>
   <press-contact>
-    <!-- Mail address -->
+    daylightbasementgames@gmail.com
   </press-contact>
 
   <!-- Google analytics ID: -->
-  <analytics></analytics>
-
+  <analytics>
+    UA-189102182-1
+  </analytics>
+<!--
   <phone></phone>
   <address>
     <line>
-      <!-- Street -->
     </line>
     <line>
-      <!-- City -->
     </line>
     <line>
-      <!-- Country -->
     </line>
   </address>
+-->
 
   <socials>
     <social>
-      <name></name>
+      <name>YouTube</name>
       <link>
-        <!-- URL starting with http or https -->
+        https://www.youtube.com/channel/UCzTDyrptoPeAI7PSxHWb-Kg
+      </link>
+    </social>
+
+    <social>
+      <name>Discord</name>
+      <link>
+        https://discord.gg/5RmvYfN
+      </link>
+    </social>
+
+    <social>
+      <name>Reddit</name>
+      <link>
+        https://reddit.com/r/rightfullybearyarms
+      </link>
+    </social>
+
+    <social>
+      <name>TikTok</name>
+      <link>
+        https://www.tiktok.com/@daylightbasementstudio
       </link>
     </social>
   </socials>
 
-  <description></description>
+  <description>A game studio based in northeast america</description>
 
   <!-- Choose between a single block: -->
   <history></history>
@@ -48,16 +69,14 @@
   </histories>
   -->
 
+
+<!--
   <trailers>
     <trailer>
       <name></name>
-
-      <!-- Pick one: -->
       <youtube>
-        <!-- Video ID only, not the full URL -->
       </youtube>
       <vimeo>
-        <!-- Video ID only, not the full URL -->
       </vimeo>
     </trailer>
   </trailers>
@@ -86,23 +105,33 @@
     </additional>
   </additionals>
 
+  -->
+
   <credits>
     <credit>
-      <person></person>
-      <role></role>
+      <person>Mike</person>
+      <role>Co Founder</role>
+      <website></website>
+    </credit>
 
-      <!-- Optional: -->
+    <credit>
+      <person>Chris</person>
+      <role>Co Founder</role>
       <website></website>
     </credit>
   </credits>
 
+
+<!--
   <contacts>
     <contact>
       <name></name>
-
-      <!-- Pick one: -->
       <mail></mail>
       <link></link>
     </contact>
   </contacts>
+
+-->
+
+
 </company>
