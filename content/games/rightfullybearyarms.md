@@ -37,14 +37,17 @@ Don't worry kid, Beary doesn't die ya dig? He is an immortal. For each grizzly d
 
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure src="/stills/mosin-firing.png" link="/reels/mosin-firing.gif" caption="Beary has a arsenal, use it" alt="Choose your favorite weapon and own the enemy">}}
-  {{< figure src="/stills/death.png" link="/reels/death.gif" caption="careful, dying is easy" alt="If you are not careful, Beary can be easily overwhelmed">}}
-  {{< figure src="/stills/the-thinker-still.png" link="/reels/the-thinker.gif" caption="Explore Randomly generated ships" alt="Don't forget to stop and appreciate the beauty around you">}}
+  {{< figure src="/stills/2022/battree-mid-fight.png" link="/stills/2022/battree-mid-fight.png" caption="Fighting Bat Trees and Batteries" alt="Fighting Bat Trees and Batteries">}}
+  {{< figure src="/stills/2022/bull-mid-dash-being-shot.png" link="/stills/2022/bull-mid-dash-being-shot.png" caption="The bull charges you, what do you do?" alt="The bull charges you, what do you do?">}}
+  {{< figure src="/stills/2022/prooves-screen.png" caption="Randomly generated ability trees for each run. Carefully plan your upgrades" alt="Randomly generated ability trees for each run. Carefully plan your upgrades">}}
+  {{< figure src="/stills/2022/catlinggun-yellow-jacket01.png" link="/stills/2022/catlinggun-yellow-jacket01.png" caption="A catling gun that fires lasers" alt="A catling gun that fires lasers">}}
+  {{< figure src="/stills/2022/nav-screen.png" link="/stills/2022/nav-screen.png" caption="Randomly generated dungeons and worlds" alt="Randomly generated dungeons and worlds">}}
+  {{< figure src="/stills/2022/toadalee-water-gun.png" caption="Don't let toadalee grab you" alt="Don't let toadalee grab you">}}
+  {{< figure src="/stills/2022/catlinggun menu.png" link="/stills/2022/catlinggun menu.png" caption="No but really, we have a cat gun that fires rainbow lasers" alt="No but really, we have a cat gun that fires rainbow lasers">}}
+  {{< figure src="/stills/2022/yallowjacket-foamball-fight.png" caption="And a foam ball gun" alt="And a foam ball gun">}}
+
+
   {{< figure link="/rba/rba-crash-poster.png" caption="Don't fall Prey" alt="Don't fall Prey">}}
-  {{< figure src="/stills/hurt.png" link="/reels/hurt.gif" caption="keep your cool and Beary will dominate" alt="Plan your fights and Beary will live">}}
   {{< figure link="/rba/rbaposterog2filter.png" caption="RBA poster" alt="poster">}}
-  {{< figure src="/stills/nav-screen.png" link="/reels/nav-screen.gif" caption="Plan your attack" alt="Planning is an important element of RBA">}}
-  {{< figure src="/stills/bull-charging-still.png" link="/reels/bull-charging.gif" caption="Watch out for bulls" alt="Beary fighting a charging bull">}}
-  {{< figure src="/stills/dont-die-still.png" link="/reels/dont-die.gif" caption="Try not to die" alt="Really, staying a live is tough for a bear in space">}}
   {{< figure link="/rba/spaceemblem.png" caption="rba space emblem" alt="space emblem">}}
 {{< /gallery >}}
