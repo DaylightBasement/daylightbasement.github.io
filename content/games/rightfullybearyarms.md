@@ -41,10 +41,12 @@ Don't worry kid, Beary doesn't die ya dig? He is an immortal. For each grizzly d
   {{< figure src="/stills/2022/bull-mid-dash-being-shot.png" link="/stills/2022/bull-mid-dash-being-shot.png" caption="The bull charges you, what do you do?" alt="The bull charges you, what do you do?">}}
   {{< figure src="/stills/2022/prooves-screen.png" caption="Randomly generated ability trees for each run. Carefully plan your upgrades" alt="Randomly generated ability trees for each run. Carefully plan your upgrades">}}
   {{< figure src="/stills/2022/catlinggun-yellow-jacket01.png" link="/stills/2022/catlinggun-yellow-jacket01.png" caption="A catling gun that fires lasers" alt="A catling gun that fires lasers">}}
+  {{< figure src="/stills/2022/pandoras-fox.png" caption="Visit Pandora's fox general store for all your galaxy needs">}}
   {{< figure src="/stills/2022/nav-screen.png" link="/stills/2022/nav-screen.png" caption="Randomly generated dungeons and worlds" alt="Randomly generated dungeons and worlds">}}
   {{< figure src="/stills/2022/toadalee-water-gun.png" caption="Don't let toadalee grab you" alt="Don't let toadalee grab you">}}
   {{< figure src="/stills/2022/catlinggun menu.png" link="/stills/2022/catlinggun menu.png" caption="No but really, we have a cat gun that fires rainbow lasers" alt="No but really, we have a cat gun that fires rainbow lasers">}}
   {{< figure src="/stills/2022/yallowjacket-foamball-fight.png" caption="And a foam ball gun" alt="And a foam ball gun">}}
+  {{< figure src="/stills/2022/calamity.png" caption="Pick a calamity when Beary's run ends" alt="Pick a calamity when Beary's run ends">}}
 
 
   {{< figure link="/rba/rba-crash-poster.png" caption="Don't fall Prey" alt="Don't fall Prey">}}
