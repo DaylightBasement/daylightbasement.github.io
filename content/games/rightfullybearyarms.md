@@ -57,4 +57,4 @@ Don't worry kid, Beary doesn't die ya dig? He is an immortal. For each grizzly d
 
 ### Press
 
-[Presskit](https://daylightbasementstudio.com/presskit/rba)
+[Presskit](https://daylightbasementstudio.com/press/rba)

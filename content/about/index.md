@@ -11,4 +11,4 @@ Logo design by [Kendall](https://www.kdkronerphoto.com/)
 
 ### Press?
 
-[Presskit](https://daylightbasementstudio.com/presskit/)
+[Presskit](https://daylightbasementstudio.com/press/)

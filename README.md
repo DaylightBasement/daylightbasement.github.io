@@ -55,4 +55,4 @@ press kit generates static content that we need to include in the `docs/` folder
 ## Building
 
 0. navigate to `presskit/`
-0. `$ presskit build --base-url /presskit/ --output ../docs/presskit/`
+0. `$ presskit build --base-url /press/ --output ../docs/press/`
