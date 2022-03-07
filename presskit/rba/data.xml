@@ -3,7 +3,7 @@
 
   <title>Rightfully, Beary Arms</title>
   <release-date>TBD</release-date>
-  <website>rbagame.com</website>
+  <website>https://rbagame.com</website>
 
   <!-- Link to request press copy: -->
   <press-copy-request></press-copy-request>
@@ -11,11 +11,11 @@
   <platforms>
     <platform>
       <name>Windows, Mac, and Linux</name>
-      <link>Coming soon</link>
+      <!--<link>Coming soon</link>-->
     </platform>
      <platform>
       <name>XBox</name>
-      <link>Coming soon</link>
+      <!--<link>Coming soon</link>-->
     </platform>
   </platforms>
 
@@ -46,7 +46,7 @@
   <features>
     <feature>Randomly generated ability trees</feature>
     <feature>23 unique upgrade abilties</feature>
-    <feature>Randomly dungeons and worlds</feature>
+    <feature>Randomly generated dungeons and worlds</feature>
     <feature>12 weapons and counting (as of alpha, lots more incoming)</feature>
     <feature>Randomly generate ability trees</feature>
     <feature>Everytime Beary dies, pick a calamity which buffs the enemies.</feature>
@@ -120,13 +120,12 @@
       <website></website>
     </credit>
   </credits>
-<!--
+
   <contacts>
     <contact>
-      <name></name>
-      <mail></mail>
-      <link></link>
+      <name>Daylight Basement Studio</name>
+      <mail>daylightbasementgames@gmail.com</mail>
     </contact>
   </contacts>
--->
+
 </product>
