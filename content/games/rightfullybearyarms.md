@@ -7,6 +7,8 @@ draft: false
 
 ![Rightfully, Beary Arms](/rba/logo4.png)
 
+{{< steamwidget >}}
+
 <!-- {{< youtube id="SA6elc10ygA" title="Playtesting hype video" >}} -->
 
 **A quirky space roguelite about a bear in space.**
