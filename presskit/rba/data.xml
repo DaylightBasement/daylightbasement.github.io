@@ -54,19 +54,15 @@
   </features>
 
 
-<!--
+
   <trailers>
     <trailer>
       <name></name>
       <youtube>
-        Video ID only, not the full URL
+        2iXLuMMzjjY
       </youtube>
-      <vimeo>
-      </vimeo>
     </trailer>
   </trailers>
-
--->
 
   <!-- You can set your widgets here (optional): -->
   <widgets>

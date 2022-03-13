@@ -7,9 +7,9 @@ draft: false
 
 ![Rightfully, Beary Arms](/rba/logo4.png)
 
-{{< steamwidget >}}
+{{< youtube id="2iXLuMMzjjY" title="PAX East 2022 Trailer" >}}
 
-<!-- {{< youtube id="SA6elc10ygA" title="Playtesting hype video" >}} -->
+{{< steamwidget >}}
 
 **A quirky space roguelite about a bear in space.**
 
