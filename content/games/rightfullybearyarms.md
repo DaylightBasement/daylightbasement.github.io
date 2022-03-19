@@ -54,7 +54,7 @@ Don't worry kid, Beary doesn't die ya dig? He is an immortal. For each grizzly d
 
 
   {{< figure link="/rba/rba-crash-poster.png" caption="Don't fall Prey" alt="Don't fall Prey">}}
-  {{< figure link="/rba/rbaposterog2filter.png" caption="DOOM style poster by Teresa Lacks <3" alt="DOOM style poster by Teresa Lacks <3">}}
+  {{< figure src="/rba/rbaposterog2filter.png" caption="Illustration done by @teresa.lacks <3 -- teresalacks.wixsite.com/artist">}}
   {{< figure link="/rba/spaceemblem.png" caption="rba space emblem" alt="space emblem">}}
 {{< /gallery >}}
 
