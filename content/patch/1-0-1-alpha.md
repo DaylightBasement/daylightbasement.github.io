@@ -9,7 +9,7 @@ draft: false
 - Keyboard and mouse can only be used if the controller is unplugged. If controller is plugged in, it takes priority
 - Hot swapping controller/keyboard will probably not work.
 - We have only tested an xbox controller
-- Framerate isn't great. We are doing some things not as optimally as we should be, we've tested on gtx 970 and that seems to play fine. We should have a fix for this soon
+- Some players may experience lower than expected framerate. There are known things we can improve and hope to fix them soon. We've tested on a GTX 970 and that seems fine.
 - There is no quit button, so alt-tab or alt+F4 to close the game
 - game only supports 16:10 and 16:9 resolutions
 
@@ -20,7 +20,7 @@ draft: false
 - Holster added back to the player hud
 - Improved minimap look
 - Updated a lot of music
-- Fixed screen affects in menu when loading in the the game for the first time
+- Fixed screen effects in menu when loading in the the game for the first time
 - Added a notification for when the player runs out of Radar Jam
 - Fixed travel events
 - Player can no longer re-board visited nodes
