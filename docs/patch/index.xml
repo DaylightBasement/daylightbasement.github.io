@@ -8,7 +8,16 @@
     <language>en-us</language>
     <managingEditor>daylightbasementgames@gmail.com (dbstudio)</managingEditor>
     <webMaster>daylightbasementgames@gmail.com (dbstudio)</webMaster>
-    <lastBuildDate>Thu, 31 Mar 2022 00:42:16 -0400</lastBuildDate><atom:link href="https://daylightbasementstudio.com/patch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Apr 2022 00:42:16 -0400</lastBuildDate><atom:link href="https://daylightbasementstudio.com/patch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1.0.2-Alpha</title>
+      <link>https://daylightbasementstudio.com/patch/1-0-2-alpha/</link>
+      <pubDate>Fri, 01 Apr 2022 00:42:16 -0400</pubDate>
+      <author>daylightbasementgames@gmail.com (dbstudio)</author>
+      <guid>https://daylightbasementstudio.com/patch/1-0-2-alpha/</guid>
+      <description>Weapons and Items  Fixed issue where ammo was not acquired from store purchases  Misc  Fixed issue where end game would occur prematurely  </description>
+    </item>
+    
     <item>
       <title>1.0.1-Alpha</title>
       <link>https://daylightbasementstudio.com/patch/1-0-1-alpha/</link>
