@@ -8,7 +8,16 @@
     <language>en-us</language>
     <managingEditor>daylightbasementgames@gmail.com (dbstudio)</managingEditor>
     <webMaster>daylightbasementgames@gmail.com (dbstudio)</webMaster>
-    <lastBuildDate>Fri, 01 Apr 2022 00:42:16 -0400</lastBuildDate><atom:link href="https://daylightbasementstudio.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 00:42:16 -0400</lastBuildDate><atom:link href="https://daylightbasementstudio.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1.0.3-Alpha</title>
+      <link>https://daylightbasementstudio.com/patch/1-0-3-alpha/</link>
+      <pubDate>Wed, 06 Apr 2022 00:42:16 -0400</pubDate>
+      <author>daylightbasementgames@gmail.com (dbstudio)</author>
+      <guid>https://daylightbasementstudio.com/patch/1-0-3-alpha/</guid>
+      <description>UI  Changes to some color profile Warning added to the settings screen  Weapons and Items  Chests can now be opened from the top  Nav  Stores have less chance to spawn Added some props to dungeon rooms Light changes to rooms  </description>
+    </item>
+    
     <item>
       <title>1.0.2-Alpha</title>
       <link>https://daylightbasementstudio.com/patch/1-0-2-alpha/</link>
