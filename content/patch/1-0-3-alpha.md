@@ -7,7 +7,7 @@ draft: false
 ## UI
 - Changes to some color profile
 - Warning added to the settings screen
-- Added build number to UI
+- Added build number to HUD
 
 ## Weapons and Items
 - Chests can now be opened from the top
