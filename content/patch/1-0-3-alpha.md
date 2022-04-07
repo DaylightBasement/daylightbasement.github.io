@@ -7,6 +7,7 @@ draft: false
 ## UI
 - Changes to some color profile
 - Warning added to the settings screen
+- Added build number to UI
 
 ## Weapons and Items
 - Chests can now be opened from the top
@@ -20,3 +21,4 @@ draft: false
 - Added some props to dungeon rooms
 - New room added
 - Light changes to rooms
+- Fixed a nav bug that would sometimes result in an empty nav screen after defeating a boss. (Thanks to Way2Mello for finding and reporting ❤️)

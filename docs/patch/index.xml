@@ -15,7 +15,7 @@
       <pubDate>Wed, 06 Apr 2022 00:42:16 -0400</pubDate>
       <author>daylightbasementgames@gmail.com (dbstudio)</author>
       <guid>https://daylightbasementstudio.com/patch/1-0-3-alpha/</guid>
-      <description>UI  Changes to some color profile Warning added to the settings screen  Weapons and Items  Chests can now be opened from the top  Enemies  Enemies with pistols and glueguns will fire sooner at the player Enemies with pistols and glueguns have a slightly higher rate of fire  Nav  Stores have less chance to spawn Added some props to dungeon rooms New room added Light changes to rooms  </description>
+      <description>UI  Changes to some color profile Warning added to the settings screen Added build number to UI  Weapons and Items  Chests can now be opened from the top  Enemies  Enemies with pistols and glueguns will fire sooner at the player Enemies with pistols and glueguns have a slightly higher rate of fire  Nav  Stores have less chance to spawn Added some props to dungeon rooms New room added Light changes to rooms Fixed a nav bug that would sometimes result in an empty nav screen after defeating a boss.</description>
     </item>
     
     <item>
