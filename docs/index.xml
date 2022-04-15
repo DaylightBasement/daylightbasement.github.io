@@ -8,7 +8,16 @@
     <language>en-us</language>
     <managingEditor>daylightbasementgames@gmail.com (dbstudio)</managingEditor>
     <webMaster>daylightbasementgames@gmail.com (dbstudio)</webMaster>
-    <lastBuildDate>Wed, 06 Apr 2022 00:42:16 -0400</lastBuildDate><atom:link href="https://daylightbasementstudio.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Apr 2022 00:42:16 -0400</lastBuildDate><atom:link href="https://daylightbasementstudio.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1.0.4-Alpha</title>
+      <link>https://daylightbasementstudio.com/patch/1-0-4-alpha/</link>
+      <pubDate>Fri, 15 Apr 2022 00:42:16 -0400</pubDate>
+      <author>daylightbasementgames@gmail.com (dbstudio)</author>
+      <guid>https://daylightbasementstudio.com/patch/1-0-4-alpha/</guid>
+      <description>UI  Reduced some of the gun shooting flashes Pressing esc now allows the player to quit or return to the title screen Smoother camera movement with a controller (Thanks for the feedback @adli_hm 📝) Fixed bugs around being able to drop weapons with a controller. These bugs were likely the cause of another bug that would result in the player not being able to shoot (Thanks to Metal Bat for reporting this &amp;lt;3) Added resource definitions to the game info screen (next to the settings)  Weapons and Items Boxes  Fixed a bug where a particular room would drop a unlimited amount of Plu (Thank you @ParkAttack for finding this one)  TP82  Increased mag size from 3 to 4 Increased rate of fire Increased ammo pickup from 50 to 96  Nav  Fixed a bug where some rooms only had a single enemy spawn point  </description>
+    </item>
+    
     <item>
       <title>1.0.3-Alpha</title>
       <link>https://daylightbasementstudio.com/patch/1-0-3-alpha/</link>
