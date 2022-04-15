@@ -14,7 +14,7 @@ draft: false
 ## Weapons and Items
 
 ### Boxes
-- Fixed a bug where a particular room would drop a unlimited amount of Plu (Thank you @ParkAttack for finding this one)
+- Fixed a bug where a particular room would drop an unlimited amount of Plu (Thank you @ParkAttack for finding this one)
 
 ### TP82
 - Increased mag size from 3 to 4
