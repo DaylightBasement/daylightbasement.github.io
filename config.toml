@@ -40,7 +40,7 @@ googleAnalytics = "UA-189102182-1"
   subreddit = "rightfullybearyarms"
   twitter = "DayliteBasement"
   press = "https://daylightbasementstudio.com/press/rba/"
-  email = "daylightbasementgames@gmail.com"
+  email = "games@daylightbasementstudio.com"
 
 [[menu.main]]
   identifier = "blog"
