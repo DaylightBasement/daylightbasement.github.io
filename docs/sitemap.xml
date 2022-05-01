@@ -1,116 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://daylightbasementstudio.com/</loc>
     <lastmod>2022-04-30T00:42:16-04:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/patch/1-0-5-alpha/</loc>
     <lastmod>2022-04-30T00:42:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/patch/</loc>
     <lastmod>2022-04-30T00:42:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/patch/1-0-4-alpha/</loc>
     <lastmod>2022-04-15T00:42:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/patch/1-0-3-alpha/</loc>
     <lastmod>2022-04-06T00:42:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/patch/1-0-2-alpha/</loc>
     <lastmod>2022-04-01T00:42:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/patch/1-0-1-alpha/</loc>
     <lastmod>2022-03-31T00:42:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/updates/1-0-1-alpha/</loc>
     <lastmod>2022-03-31T00:42:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/updates/</loc>
     <lastmod>2022-03-31T00:42:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/posts/open-playtesting/</loc>
     <lastmod>2022-03-20T00:42:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/posts/</loc>
     <lastmod>2022-03-20T00:42:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/posts/playtesting-copy/</loc>
     <lastmod>2022-03-13T00:42:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/posts/steampage/</loc>
     <lastmod>2022-03-10T00:42:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/posts/valentines/</loc>
     <lastmod>2022-02-11T00:42:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/posts/paxeast/</loc>
     <lastmod>2022-01-25T00:42:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/posts/playtesting/</loc>
     <lastmod>2021-05-20T00:42:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/posts/walkingintodoors/</loc>
     <lastmod>2021-05-06T22:09:46-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/posts/progression-of-colors/</loc>
     <lastmod>2020-06-17T21:31:59-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/games/rightfullybearyarms/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/games/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://daylightbasementstudio.com/tags/</loc>
   </url>
-  
 </urlset>

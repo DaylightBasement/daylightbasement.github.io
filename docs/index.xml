@@ -15,7 +15,7 @@
       <pubDate>Sat, 30 Apr 2022 00:42:16 -0400</pubDate>
       <author>games@daylightbasementstudio.com (dbstudio)</author>
       <guid>https://daylightbasementstudio.com/patch/1-0-5-alpha/</guid>
-      <description>UI  Fixed a bug where Beary could spawn outside a room (Thanks Austin of Jolly Crouton!) Fixed a bug where the nav screen would crash after death (Thanks DangerousFsh!)  </description>
+      <description>UI  Fixed, one of the issues that could cause, a bug where Beary could spawn outside a room (Thanks Austin of Jolly Crouton!) Fixed a bug where the nav screen would crash after death (Thanks DangerousFsh!)  </description>
     </item>
     
     <item>
