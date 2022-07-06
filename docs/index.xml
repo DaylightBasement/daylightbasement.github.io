@@ -15,7 +15,7 @@
       <pubDate>Sat, 30 Apr 2022 00:42:16 -0400</pubDate>
       <author>games@daylightbasementstudio.com (dbstudio)</author>
       <guid>https://daylightbasementstudio.com/patch/1-0-5-alpha/</guid>
-      <description>UI  Fixed one of the issues that could cause a bug where Beary would spawn outside a room (Thanks Austin of Jolly Crouton!) Fixed a bug where the nav screen would crash after death (Thanks DangerousFsh!)  </description>
+      <description>UI Fixed one of the issues that could cause a bug where Beary would spawn outside a room (Thanks Austin of Jolly Crouton!) Fixed a bug where the nav screen would crash after death (Thanks DangerousFsh!) </description>
     </item>
     
     <item>
@@ -24,7 +24,7 @@
       <pubDate>Fri, 15 Apr 2022 00:42:16 -0400</pubDate>
       <author>games@daylightbasementstudio.com (dbstudio)</author>
       <guid>https://daylightbasementstudio.com/patch/1-0-4-alpha/</guid>
-      <description>UI  Reduced some of the gun shooting flashes Pressing esc now allows the player to quit or return to the title screen Smoother camera movement with a controller (Thanks for the feedback @adli_hm 📝) Fixed bugs around being able to drop weapons with a controller. These bugs were likely the cause of another bug that would result in the player not being able to shoot (Thanks to Metal Bat for reporting this &amp;lt;3) Added resource definitions to the game info screen (next to the settings)  Weapons and Items Boxes  Fixed a bug where a particular room would drop an unlimited amount of Plu (Thank you @ParkAttack for finding this one)  TP82  Increased mag size from 3 to 4 Increased rate of fire Increased ammo pickup from 50 to 96  Nav  Fixed a bug where some rooms only had a single enemy spawn point  </description>
+      <description>UI Reduced some of the gun shooting flashes Pressing esc now allows the player to quit or return to the title screen Smoother camera movement with a controller (Thanks for the feedback @adli_hm 📝) Fixed bugs around being able to drop weapons with a controller. These bugs were likely the cause of another bug that would result in the player not being able to shoot (Thanks to Metal Bat for reporting this &amp;lt;3) Added resource definitions to the game info screen (next to the settings) Weapons and Items Boxes Fixed a bug where a particular room would drop an unlimited amount of Plu (Thank you @ParkAttack for finding this one) TP82 Increased mag size from 3 to 4 Increased rate of fire Increased ammo pickup from 50 to 96 Nav Fixed a bug where some rooms only had a single enemy spawn point </description>
     </item>
     
     <item>
@@ -33,7 +33,7 @@
       <pubDate>Wed, 06 Apr 2022 00:42:16 -0400</pubDate>
       <author>games@daylightbasementstudio.com (dbstudio)</author>
       <guid>https://daylightbasementstudio.com/patch/1-0-3-alpha/</guid>
-      <description>UI  Changes to some color profile Warning added to the settings screen Added build number to HUD  Weapons and Items  Chests can now be opened from the top  Enemies  Enemies with pistols and glueguns will fire sooner at the player Enemies with pistols and glueguns have a slightly higher rate of fire  Nav  Stores have less chance to spawn Added some props to dungeon rooms New room added Light changes to rooms Fixed a nav bug that would sometimes result in an empty nav screen after defeating a boss.</description>
+      <description>UI Changes to some color profile Warning added to the settings screen Added build number to HUD Weapons and Items Chests can now be opened from the top Enemies Enemies with pistols and glueguns will fire sooner at the player Enemies with pistols and glueguns have a slightly higher rate of fire Nav Stores have less chance to spawn Added some props to dungeon rooms New room added Light changes to rooms Fixed a nav bug that would sometimes result in an empty nav screen after defeating a boss.</description>
     </item>
     
     <item>
@@ -42,7 +42,7 @@
       <pubDate>Fri, 01 Apr 2022 00:42:16 -0400</pubDate>
       <author>games@daylightbasementstudio.com (dbstudio)</author>
       <guid>https://daylightbasementstudio.com/patch/1-0-2-alpha/</guid>
-      <description>Weapons and Items  Fixed issue where ammo was not acquired from store purchases  Misc  Fixed issue where end game would occur prematurely  </description>
+      <description>Weapons and Items Fixed issue where ammo was not acquired from store purchases Misc Fixed issue where end game would occur prematurely </description>
     </item>
     
     <item>
@@ -51,7 +51,7 @@
       <pubDate>Thu, 31 Mar 2022 00:42:16 -0400</pubDate>
       <author>games@daylightbasementstudio.com (dbstudio)</author>
       <guid>https://daylightbasementstudio.com/patch/1-0-1-alpha/</guid>
-      <description>Known Issues  Keyboard and mouse can only be used if the controller is unplugged. If controller is plugged in, it takes priority Hot swapping controller/keyboard will probably not work. We have only tested an xbox controller Some players may experience lower than expected framerate. There are known things we can improve and hope to fix them soon. We&amp;rsquo;ve tested on a GTX 970 and that seems fine. There is no quit button, so alt-tab or alt+F4 to close the game game only supports 16:10 and 16:9 resolutions  UI Overall  Improved look of health bars Holster added back to the player hud Improved minimap look Updated a lot of music Fixed screen effects in menu when loading in the the game for the first time Added a notification for when the player runs out of Radar Jam Fixed travel events Player can no longer re-board visited nodes  Weapons and Items Overall  Fixed a bug around weapons being duplicated with a controller  Calamities  Now reset upon death  Pro͞oves  Reduced cost of all Pro͞oves to 1  RunTime  Pro͞oves granted within a given run are now called RunTimes Now reset upon death (Pro͞oves gained still carry over from run to run)  Radar Jam  Reduced the amount of starting radarjam from 250 to 150 Reduced the amount picked up from 100 to 50  PPSH41  Increased reserved ammo amount from 100 to 850 Reduced the amount of light flashing when shooting  TP82  Increased per bullet damage from 2 to 3  Shotgun  Increased per bullet damage from 4 to 5  Plasma Gun  Increased reserved ammo from 50 to 250  </description>
+      <description>Known Issues Keyboard and mouse can only be used if the controller is unplugged. If controller is plugged in, it takes priority Hot swapping controller/keyboard will probably not work. We have only tested an xbox controller Some players may experience lower than expected framerate. There are known things we can improve and hope to fix them soon. We&amp;rsquo;ve tested on a GTX 970 and that seems fine. There is no quit button, so alt-tab or alt+F4 to close the game game only supports 16:10 and 16:9 resolutions UI Overall Improved look of health bars Holster added back to the player hud Improved minimap look Updated a lot of music Fixed screen effects in menu when loading in the the game for the first time Added a notification for when the player runs out of Radar Jam Fixed travel events Player can no longer re-board visited nodes Weapons and Items Overall Fixed a bug around weapons being duplicated with a controller Calamities Now reset upon death Pro͞oves Reduced cost of all Pro͞oves to 1 RunTime Pro͞oves granted within a given run are now called RunTimes Now reset upon death (Pro͞oves gained still carry over from run to run) Radar Jam Reduced the amount of starting radarjam from 250 to 150 Reduced the amount picked up from 100 to 50 PPSH41 Increased reserved ammo amount from 100 to 850 Reduced the amount of light flashing when shooting TP82 Increased per bullet damage from 2 to 3 Shotgun Increased per bullet damage from 4 to 5 Plasma Gun Increased reserved ammo from 50 to 250 </description>
     </item>
     
     <item>
@@ -60,7 +60,7 @@
       <pubDate>Thu, 31 Mar 2022 00:42:16 -0400</pubDate>
       <author>games@daylightbasementstudio.com (dbstudio)</author>
       <guid>https://daylightbasementstudio.com/updates/1-0-1-alpha/</guid>
-      <description>Known Issues  Keyboard and mouse can only be used if the controller is unplugged. If controller is plugged in, it takes priority Hot swapping controller/keyboard will probably not work. We have only tested an Xbox controller Framerate isn&amp;rsquo;t great. We are doing some things not as optimally as we should be, we&amp;rsquo;ve tested on gtx 970 and that seems to play fine. We should have a fix for this soon There is no quit button, so alt-tab or alt+F4 to close the game game only supports 16:10 and 16:9 resolutions  UI Overall  Improved look of health bars Holster added back to the player hud Improved minimap look Updated a lot of music Fixed screen affects in menu when loading in the the game for the first time Added a notification for when the player runs out of Radar Jam Fixed travel events Player can no longer re-board visited nodes  Weapons and Items Overall  Fixed a bug around weapons being duplicated with a controller  Calamities  Now reset upon death  Pro͞oves  Reduced cost of all Pro͞oves to 1  RunTime  Pro͞oves granted within a given run are now called RunTimes Now reset upon death (Pro͞oves gained still carry over from run to run)  Radar Jam  Reduced the amount of starting radarjam from 250 to 150 Reduced the amount picked up from 100 to 50  PPSH41  Increased reserved ammo amount from 100 to 850 Reduced the amount of light flashing when shooting  TP82  Increased per bullet damage from 2 to 3  Shotgun  Increased per bullet damage from 4 to 5  Plasma Gun  Increased reserved ammo from 50 to 250  </description>
+      <description>Known Issues Keyboard and mouse can only be used if the controller is unplugged. If controller is plugged in, it takes priority Hot swapping controller/keyboard will probably not work. We have only tested an Xbox controller Framerate isn&amp;rsquo;t great. We are doing some things not as optimally as we should be, we&amp;rsquo;ve tested on gtx 970 and that seems to play fine. We should have a fix for this soon There is no quit button, so alt-tab or alt+F4 to close the game game only supports 16:10 and 16:9 resolutions UI Overall Improved look of health bars Holster added back to the player hud Improved minimap look Updated a lot of music Fixed screen affects in menu when loading in the the game for the first time Added a notification for when the player runs out of Radar Jam Fixed travel events Player can no longer re-board visited nodes Weapons and Items Overall Fixed a bug around weapons being duplicated with a controller Calamities Now reset upon death Pro͞oves Reduced cost of all Pro͞oves to 1 RunTime Pro͞oves granted within a given run are now called RunTimes Now reset upon death (Pro͞oves gained still carry over from run to run) Radar Jam Reduced the amount of starting radarjam from 250 to 150 Reduced the amount picked up from 100 to 50 PPSH41 Increased reserved ammo amount from 100 to 850 Reduced the amount of light flashing when shooting TP82 Increased per bullet damage from 2 to 3 Shotgun Increased per bullet damage from 4 to 5 Plasma Gun Increased reserved ammo from 50 to 250 </description>
     </item>
     
     <item>
@@ -78,8 +78,7 @@
       <pubDate>Sun, 13 Mar 2022 00:42:16 -0400</pubDate>
       <author>games@daylightbasementstudio.com (dbstudio)</author>
       <guid>https://daylightbasementstudio.com/posts/playtesting-copy/</guid>
-      <description>New trailer, just in time for PAX East!
-  </description>
+      <description>New trailer, just in time for PAX East!</description>
     </item>
     
     <item>
@@ -88,8 +87,7 @@
       <pubDate>Thu, 10 Mar 2022 00:42:16 -0400</pubDate>
       <author>games@daylightbasementstudio.com (dbstudio)</author>
       <guid>https://daylightbasementstudio.com/posts/steampage/</guid>
-      <description>RBA is now on steam! Be sure to wishlist. Keep an eye out for open play testing sign up.
- </description>
+      <description>RBA is now on steam! Be sure to wishlist. Keep an eye out for open play testing sign up.</description>
     </item>
     
     <item>
@@ -116,8 +114,7 @@
       <pubDate>Thu, 20 May 2021 00:42:16 -0400</pubDate>
       <author>games@daylightbasementstudio.com (dbstudio)</author>
       <guid>https://daylightbasementstudio.com/posts/playtesting/</guid>
-      <description>Playtesting montage video:
-  </description>
+      <description>Playtesting montage video:</description>
     </item>
     
     <item>
@@ -146,7 +143,8 @@ One hilarious design flaw we discovered: player&amp;rsquo;s have trouble walking
       <author>games@daylightbasementstudio.com (dbstudio)</author>
       <guid>https://daylightbasementstudio.com/games/rightfullybearyarms/</guid>
       <description>Rightfully, Beary Arms by daylightbasementstudio A quirky space roguelite about a bear in space.
-Rightfully, Beary Arms is an interstellar; planning; shoot&#39;em up roguelite. Take control of Beary Arms, a space bear, and his comical arsenal of weapons to eliminate his enemies. Plan his route carefully and manage his inventory to get Beary out alive. But bearware, even the smallest of missteps can lead to Beary&amp;rsquo;s grizzly demise.</description>
+Rightfully, Beary Arms is an interstellar; planning; shoot&#39;em up roguelite. Take control of Beary Arms, a space bear, and his comical arsenal of weapons to eliminate his enemies. Plan his route carefully and manage his inventory to get Beary out alive. But bearware, even the smallest of missteps can lead to Beary&amp;rsquo;s grizzly demise.
+Video not supportedA core component to Rightfully, Beary Arms is planning.</description>
     </item>
     
     <item>
