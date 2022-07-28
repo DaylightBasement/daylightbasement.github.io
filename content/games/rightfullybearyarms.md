@@ -9,7 +9,7 @@ draft: false
 
 <br />
 
-**A quirky space-bear roguelite where you influence player-enemy upgrades, loot collected, and what persists after death.**
+**A quirky space-bear roguelite where you influence player-enemy upgrades, loot weapons, and influence what persists after death.**
 
 <br />
 
@@ -27,12 +27,12 @@ draft: false
 
 <br />
 
-Rightfully, Beary Arms (RBA) is a bullet hell roguelite that is not just about collecting loot, dying, then losing everything. Carefully choose enemy upgrades against your own – Plan the dungeon crawl carefully to gun through unique factions of enemies and strategically preserve loot after death.
+Rightfully, Beary Arms (RBA) is a bullet hell roguelite that is not just about collecting loot, dying, then losing everything. Carefully choose enemy upgrades against your own – Plan your dungeon crawl strategically to gun through unique factions of enemies and strategically preserve loot after death.
 
 
 {{< webm "/reels/steam-desc-arsenal.webm" "">}}
 
-Beary Likes to fight. His arsenal is vast and displaced throughout the galaxy. Collect and use powerful weapons with their own unique strategies and learning curves. Beary’s arsenal ranges from unusual weapons like a catling gun to realistic soviet inspired Mosin Nagants. Find your favorite weapon and keep Beary alive. Oh one more thing, Beary doesn’t lose collected weapons upon death.
+Beary Likes to fight. His arsenal is vast but displaced throughout the galaxy. Collect and use powerful weapons with their own unique strategies and learning curves. Beary’s arsenal ranges from unusual weapons like a Catling gun to realistic soviet inspired Mosin Nagants. Find your favorite weapon and keep Beary alive. Oh one more thing, Beary doesn’t lose collected weapons upon death.
 
 <!-- {{< webm "/reels/arsenal.webm" "/stills/battree.png">}} -->
 
