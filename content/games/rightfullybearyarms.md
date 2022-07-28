@@ -32,7 +32,7 @@ Rightfully, Beary Arms (RBA) is a bullet hell roguelite that is not just about c
 
 {{< webm "/reels/steam-desc-arsenal.webm" "">}}
 
-Beary Likes to fight. His arsenal is vast but displaced throughout the galaxy. Collect and use powerful weapons with their own unique strategies and learning curves. Beary’s arsenal ranges from unusual weapons like a Catling gun to realistic soviet inspired Mosin Nagants. Find your favorite weapon and keep Beary alive. Oh one more thing, Beary doesn’t lose collected weapons upon death.
+Beary Likes to fight. His arsenal is vast but displaced throughout the galaxy. Collect and use powerful weapons with their own unique strategies and learning curves. Beary’s arsenal ranges from unusual weapons like a Catling gun to realistic Soviet inspired Mosin Nagants. Find your favorite weapon and keep Beary alive. Oh one more thing, Beary doesn’t lose collected weapons upon death.
 
 <!-- {{< webm "/reels/arsenal.webm" "/stills/battree.png">}} -->
 
@@ -55,13 +55,6 @@ Fight against unique enemy factions. Each faction possesses their own traits and
 Each new game generates a random upgrade tree. Collected upgrades persist through death. A valuable reward for those who prove themselves worthy enough to claim.
 
 <!-- {{< webm "/reels/Planning2022.webm" "/stills/abilties.png">}} -->
-
-
-
-
-
-
-
 
 {{< gallery caption-effect="fade" >}}
   {{< figure src="/stills/2022/battree-mid-fight.png" link="/stills/2022/battree-mid-fight.png" caption="Fighting Bat Trees and Batteries" alt="Fighting Bat Trees and Batteries">}}
