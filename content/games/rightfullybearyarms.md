@@ -7,38 +7,54 @@ draft: false
 
 ![Rightfully, Beary Arms](/rba/logo4.png)
 
-{{< youtube id="2iXLuMMzjjY" title="PAX East 2022 Trailer" >}}
+<br />
+
+**A quirky space-bear roguelite where you influence player-enemy upgrades, loot weapons, and influence what persists after death.**
+
+<br />
+
+{{< webm "/reels/arsenal.webm" "/stills/battree.png">}}
+
+
+
+<!-- {{< youtube id="2iXLuMMzjjY" title="PAX East 2022 Trailer" >}} -->
+
+<br />
 
 {{< steamwidget >}}
 
 {{< itchwidget >}}
 
-**A quirky space roguelite about a bear in space.**
+<br />
 
-_Rightfully, Beary Arms_ is an `interstellar`; `planning`; `shoot'em up` roguelite. Take control of Beary Arms, a space bear, and his comical arsenal of weapons to eliminate  his enemies. Plan his route carefully and manage his inventory to get Beary out alive. But bearware, even the smallest of missteps can lead to Beary's grizzly demise.
-
-
-![Planning](/banners/virtualbanner-planning.png)
-
-{{< webm "/reels/Planning2022.webm" "/stills/abilties.png">}}
-
-A core component to _Rightfully, Beary Arms_ is planning. Each run generates a random world and abilities tree which offers a unique combination of skills and planets to explore. Planning your set of skills and your warpath for a run is your best hope for keeping Beary alive. No playthough will generate the same experience, so your plan has to be thoughtful for each run.
-
-![Arsenal](/banners/virtualbanner-arsenal.png)
-
-{{< webm "/reels/arsenal.webm" "/stills/battree.png">}}
-
-Beary likes to fight. Choose between unique abilities and weapons to impact your fighting style. From water guns to catling guns, find your favorite weapon to keep Beary alive.
+Rightfully, Beary Arms (RBA) is a bullet hell roguelite that is not just about collecting loot, dying, then losing everything. Carefully choose enemy upgrades against your own – Plan your dungeon crawl strategically to gun through unique factions of enemies and strategically preserve loot after death.
 
 
-![Die](/banners/virtualbanner-die.png)
+{{< webm "/reels/steam-desc-arsenal.webm" "">}}
 
-{{< webm "/reels/die.webm" "/stills/death2.png">}}
+Beary Likes to fight. His arsenal is vast but displaced throughout the galaxy. Collect and use powerful weapons with their own unique strategies and learning curves. Beary’s arsenal ranges from unusual weapons like a Catling gun to realistic Soviet inspired Mosin Nagants. Find your favorite weapon and keep Beary alive. Oh one more thing, Beary doesn’t lose collected weapons upon death.
 
-Don't worry kid, Beary doesn't die ya dig? He is an immortal. For each grizzly demise, Beary's world is altered: a calamity of sorts. You have influence on this calamity. Will an enemy faction gain a new enemy? Will enemies move faster? Deal more damage? Gain a new ability? The choice is yours. It ain’t a good choice to have, though.
+<!-- {{< webm "/reels/arsenal.webm" "/stills/battree.png">}} -->
 
+{{< webm "/reels/steam-desc-calamity.webm" "">}}
 
+As Beary grows stronger within a run, so do his enemies – but you have a choice in how enemies get stronger: Will an enemy faction gain a new enemy? Will health drops be more sparse? Will an enemy gain a new ability? Lose your loot? The choice is yours. It ain’t a good choice to have, though.
 
+<!-- {{< webm "/reels/die.webm" "/stills/death2.png">}} -->
+
+{{< webm "/reels/steam-desc-crawl.webm" "">}}
+
+Clearing a dungeon guarantees a loot drop: money, weapons or abilities. Beary has some level of confidence in these drops. Help Beary plan his route through the galaxy to maximize your strengths and appeal to your strategy.
+
+{{< webm "/reels/steam-desc-faction.webm" "">}}
+
+Fight against unique enemy factions. Each faction possesses their own traits and difficulties. Learn their strengths and exploit their weaknesses – sounds easy, right?
+
+{{< webm "/reels/steam-desc-upgrades.webm" "">}}
+
+Each new game generates a random upgrade tree. Collected upgrades persist through death. A valuable reward for those who prove themselves worthy enough to claim.
+
+<!-- {{< webm "/reels/Planning2022.webm" "/stills/abilties.png">}} -->
 
 {{< gallery caption-effect="fade" >}}
   {{< figure src="/stills/2022/battree-mid-fight.png" link="/stills/2022/battree-mid-fight.png" caption="Fighting Bat Trees and Batteries" alt="Fighting Bat Trees and Batteries">}}
