@@ -27,32 +27,34 @@ draft: false
 
 <br />
 
-Rightfully, Beary Arms (RBA) is a bullet hell roguelite that is not just about collecting loot, dying, then losing everything. Carefully choose enemy upgrades against your own – Plan your dungeon crawl strategically to gun through unique factions of enemies and strategically preserve loot after death.
+_Rightfully, Beary Arms_ is a bullet hell roguelite that is about more than collecting loot, dying, and then losing everything. Carefully choose enemy upgrades against your own. Plan your dungeon crawl tactfully to gun through unique factions of enemies and strategically preserve loot after death.
 
 
 {{< webm "/reels/steam-desc-arsenal.webm" "">}}
 
-Beary Likes to fight. His arsenal is vast but displaced throughout the galaxy. Collect and use powerful weapons with their own unique strategies and learning curves. Beary’s arsenal ranges from unusual weapons like a Catling gun to realistic Soviet inspired Mosin Nagants. Find your favorite weapon and keep Beary alive. Oh one more thing, Beary doesn’t lose collected weapons upon death.
+Beary Likes to fight. His arsenal is vast but displaced throughout the galaxy. Collect and use powerful weapons with their own unique characteristics and learning curves. Beary’s arsenal ranges from unusual weapons like a cat that fires rainbow lasers (Catling gun) to realistic Soviet inspired Mosin Nagants. Find your favorite weapon and keep Beary alive. Oh, one more thing. Beary doesn’t lose collected weapons upon death.
 
-<!-- {{< webm "/reels/arsenal.webm" "/stills/battree.png">}} -->
+
 
 {{< webm "/reels/steam-desc-calamity.webm" "">}}
 
-As Beary grows stronger within a run, so do his enemies – but you have a choice in how enemies get stronger: Will an enemy faction gain a new enemy? Will health drops be more sparse? Will an enemy gain a new ability? Lose your loot? The choice is yours. It ain’t a good choice to have, though.
+As Beary grows stronger within a run, so do his enemies – but you have a choice in how enemies get stronger. Will an enemy faction gain a new enemy? Will health drops be more sparse? Will an enemy gain a new ability? Lose your loot? The choice is yours. It ain’t a good choice to have, though.
 
-<!-- {{< webm "/reels/die.webm" "/stills/death2.png">}} -->
+{{< webm "/reels/steam-desc-runtime.webm" "">}}
 
-{{< webm "/reels/steam-desc-crawl.webm" "">}}
-
-Clearing a dungeon guarantees a loot drop: money, weapons or abilities. Beary has some level of confidence in these drops. Help Beary plan his route through the galaxy to maximize your strengths and appeal to your strategy.
-
-{{< webm "/reels/steam-desc-faction.webm" "">}}
-
-Fight against unique enemy factions. Each faction possesses their own traits and difficulties. Learn their strengths and exploit their weaknesses – sounds easy, right?
+Calamities make the world and enemies more difficult for Beary while Runtimes modify Beary and the world to make his crawl easier. Like calamities they only exist within a run – so be strategic.
 
 {{< webm "/reels/steam-desc-upgrades.webm" "">}}
 
-Each new game generates a random upgrade tree. Collected upgrades persist through death. A valuable reward for those who prove themselves worthy enough to claim.
+Each new game generates a random upgrade tree. Collected passive and active upgrades persist through death. A valuable reward for those who prove themselves worthy enough to claim.
+
+{{< webm "/reels/steam-desc-crawl.webm" "">}}
+
+Clearing a dungeon guarantees a loot drop of either money, weapons, abilities, or items. Beary has some level of confidence in these drops. Help Beary plan his route through the galaxy to maximize your strengths and appeal to your strategy.
+
+{{< webm "/reels/steam-desc-faction.webm" "">}}
+
+Fight against unique enemy factions. Each faction possesses their own traits and challenges. Learn their strengths and exploit their weaknesses – sounds easy, right?
 
 <!-- {{< webm "/reels/Planning2022.webm" "/stills/abilties.png">}} -->
 
