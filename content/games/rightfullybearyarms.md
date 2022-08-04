@@ -11,7 +11,7 @@ draft: false
 
 **A quirky space-bear roguelite where you influence player-enemy upgrades, loot weapons, and influence what persists after death.**
 
-<br />
+---
 
 {{< webm "/reels/arsenal.webm" "/stills/battree.png">}}
 
@@ -25,7 +25,7 @@ draft: false
 
 {{< itchwidget >}}
 
-<br />
+---
 
 _Rightfully, Beary Arms_ is a bullet hell roguelite that is about more than collecting loot, dying, and then losing everything. Carefully choose enemy upgrades against your own. Plan your dungeon crawl tactfully to gun through unique factions of enemies and strategically preserve loot after death.
 
