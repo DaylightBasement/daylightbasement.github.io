@@ -10,7 +10,7 @@
 
   <platforms>
     <platform>
-      <name>Windows, Mac, and Linux</name>
+      <name>Windows and Linux</name>
       <!--<link>Coming soon</link>-->
     </platform>
      <platform>
@@ -27,7 +27,7 @@
   </prices>
 
   <description>
-    Rightfully, Beary Arms is an interstellar; planning; shoot'em up roguelite. Take control of Beary Arms, a space bear, and his comical arsenal of weapons to eliminate his enemies. Plan his route carefully and manage his inventory to get Beary out alive. But bearware, even the smallest of missteps can lead to Beary's grizzly demise.
+    Rightfully, Beary Arms is a bullet hell roguelite that is about more than collecting loot, dying, and then losing everything. Carefully choose enemy upgrades against your own. Plan your dungeon crawl tactfully to gun through unique factions of enemies and strategically preserve loot after death.
   </description>
 
   <!-- Choose between a single block: -->
@@ -44,12 +44,13 @@
   -->
 
   <features>
+    <feature>Enemy and Player modifiers that change the world and systems</feature>
+    <feature>Emphasis on Planning dungeon routes and item collection</feature>
+    <feature>Active and Passive skill upgrades</feature>
+    <feature>Unique and fun weapons to collect</feature>
+    <feature>Weapon and ability persistence</feature>
     <feature>Randomly generated ability trees</feature>
-    <feature>23 unique upgrade abilties</feature>
     <feature>Randomly generated dungeons and worlds</feature>
-    <feature>12 weapons and counting (as of alpha, lots more incoming)</feature>
-    <feature>Randomly generate ability trees</feature>
-    <feature>Everytime Beary dies, pick a calamity which buffs the enemies.</feature>
     <feature>28 enemies and counting (as of alpha, lots more incoming)</feature>
   </features>
 
@@ -60,6 +61,12 @@
       <name></name>
       <youtube>
         2iXLuMMzjjY
+      </youtube>
+    </trailer>
+    <trailer>
+      <name></name>
+      <youtube>
+        KnXTzreZpq0
       </youtube>
     </trailer>
   </trailers>
@@ -125,6 +132,30 @@
     <contact>
       <name>PR</name>
       <mail>pr@daylightbasementstudio.com</mail>
+    </contact>
+    <contact>
+      <name>YouTube</name>
+      <link>
+        https://www.youtube.com/channel/UCzTDyrptoPeAI7PSxHWb-Kg
+      </link>
+    </contact>
+    <contact>
+      <name>Discord</name>
+      <link>
+        https://discord.gg/5RmvYfN
+      </link>
+    </contact>
+    <contact>
+      <name>Reddit</name>
+      <link>
+        https://reddit.com/r/rightfullybearyarms
+      </link>
+    </contact>
+    <contact>
+      <name>TikTok</name>
+      <link>
+        https://www.tiktok.com/@daylightbasementstudio
+      </link>
     </contact>
   </contacts>
 
