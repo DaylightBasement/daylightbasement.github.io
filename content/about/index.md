@@ -7,7 +7,10 @@ draft: false
 ![Progression](/mandc-transparent.png)
 Chris and Mike like games.
 
-Logo design by [Kendall](https://www.kdkronerphoto.com/)
+![Progression](/av.png)
+April likes the idea of people.
+
+DBS Logo design by [Kendall](https://www.kdkronerphoto.com/)
 
 ### Press?
 
