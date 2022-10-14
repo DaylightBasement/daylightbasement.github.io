@@ -5,7 +5,9 @@
 draft: false
 ---
 
-![Rightfully, Beary Arms](/rba/logo4.png)
+
+{{< youtube id="FjANEujgFDA" title="PAX East 2022 Trailer" >}}
+<!-- ![Rightfully, Beary Arms](/rba/logo4.png) -->
 
 <br />
 
@@ -13,11 +15,7 @@ draft: false
 
 ---
 
-{{< webm "/reels/arsenal.webm" "/stills/battree.png">}}
 
-
-
-<!-- {{< youtube id="2iXLuMMzjjY" title="PAX East 2022 Trailer" >}} -->
 
 <br />
 
@@ -56,19 +54,15 @@ Clearing a dungeon guarantees a loot drop of either money, weapons, abilities, o
 
 Fight against unique enemy factions. Each faction possesses their own traits and challenges. Learn their strengths and exploit their weaknesses – sounds easy, right?
 
-<!-- {{< webm "/reels/Planning2022.webm" "/stills/abilties.png">}} -->
-
 {{< gallery caption-effect="fade" >}}
-  {{< figure src="/stills/2022/battree-mid-fight.png" link="/stills/2022/battree-mid-fight.png" caption="Fighting Bat Trees and Batteries" alt="Fighting Bat Trees and Batteries">}}
-  {{< figure src="/stills/2022/bull-mid-dash-being-shot.png" link="/stills/2022/bull-mid-dash-being-shot.png" caption="The bull charges you, what do you do?" alt="The bull charges you, what do you do?">}}
-  {{< figure src="/stills/2022/prooves-screen.png" caption="Randomly generated ability trees for each run. Carefully plan your upgrades" alt="Randomly generated ability trees for each run. Carefully plan your upgrades">}}
-  {{< figure src="/stills/2022/catlinggun-yellow-jacket01.png" link="/stills/2022/catlinggun-yellow-jacket01.png" caption="A catling gun that fires lasers" alt="A catling gun that fires lasers">}}
-  {{< figure src="/stills/2022/pandoras-fox.png" caption="Visit Pandora's fox general store for all your galaxy needs">}}
-  {{< figure src="/stills/2022/nav-screen.png" link="/stills/2022/nav-screen.png" caption="Randomly generated dungeons and worlds" alt="Randomly generated dungeons and worlds">}}
-  {{< figure src="/stills/2022/toadalee-water-gun.png" caption="Don't let toadalee grab you" alt="Don't let toadalee grab you">}}
-  {{< figure src="/stills/2022/catlinggun menu.png" link="/stills/2022/catlinggun menu.png" caption="No but really, we have a cat gun that fires rainbow lasers" alt="No but really, we have a cat gun that fires rainbow lasers">}}
-  {{< figure src="/stills/2022/yellowjacket-foamball-fight.png" caption="And a foam ball gun" alt="And a foam ball gun">}}
-  {{< figure src="/stills/2022/calamity.png" caption="Pick a calamity when Beary's run ends" alt="Pick a calamity when Beary's run ends">}}
+  {{< figure src="/stills/2022/Q4/NOTTHEBEES.png" link="/stills/2022/Q4/NOTTHEBEES.png" caption="Please sir, anything but the bees" alt="Please sir, anything but the bees">}}
+  {{< figure src="/stills/2022/Q4/NAVIGATE.png" caption="How do you plan your crawl?">}}
+  {{< figure src="/stills/2022/Q4/WEAPONS.png" caption="Beary has quite the arsenal, how will you use it?">}}
+  {{< figure src="/stills/2022/Q4/LOOOONGJACKET.png" caption="Ever been attacked by a yellow jacket? The fashion kind not the insect">}}
+  {{< figure src="/stills/2022/Q4/SKILLS.png" caption="Beary can evolve, how are you going to upgrade him?">}}
+  {{< figure src="/stills/2022/Q4/SPIDERS.png" caption="THATS A LOTTA SPIDAHS">}}
+  {{< figure src="/stills/2022/Q4/PEACH.png" caption="Dat peach">}}
+  {{< figure src="/stills/2022/Q4/FISH.png" caption="Enjoy the world views">}}
 
 
   {{< figure link="/rba/rba-crash-poster.png" caption="Don't fall Prey" alt="Don't fall Prey">}}
