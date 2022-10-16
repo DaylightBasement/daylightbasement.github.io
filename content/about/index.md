@@ -8,9 +8,8 @@ draft: false
 Chris and Mike like games.
 
 ![Progression](/av.png)
-April likes the idea of people.
+April likes people.
 
-DBS Logo design by [Kendall](https://www.kdkronerphoto.com/)
 
 ### Press?
 
