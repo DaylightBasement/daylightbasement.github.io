@@ -21,6 +21,7 @@ body {
 .container[role=main] {
     margin-left: 0;
     margin-right: 0;
+    height: 400px;
 }
 }
 
@@ -487,6 +488,9 @@ footer .theme-by {
   }
 }
 /* --- Post and page headers --- */
+.intro-header.bigvid {
+  margin-top: 51px;
+}
 
 .intro-header {
   margin: 80px 0 20px;
