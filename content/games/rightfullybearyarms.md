@@ -1,23 +1,15 @@
 ---
 # title: "Rightfully, Beary Arms"
-# date: 2021-02-04T22:15:23-05:00
-# bigimg: [{src: "/rba/RBALOGO.png"}, {src: "/rba/screen.png"}, {src: "/stills/the-thinker-still.png"}]
 draft: false
+title: "Rightfully, Beary Arms"
+subtitle: "A quirky space-bear roguelite where you influence player-enemy upgrades, loot weapons, and influence what persists after death."
+type: "page"
+vid: "/reels/demoreel.webm"
 ---
 
 
-{{< youtube id="FjANEujgFDA" title="PAX East 2022 Trailer" >}}
+<!-- {{< youtube id="FjANEujgFDA" title="PAX East 2022 Trailer" >}} -->
 <!-- ![Rightfully, Beary Arms](/rba/logo4.png) -->
-
-<br />
-
-**A quirky space-bear roguelite where you influence player-enemy upgrades, loot weapons, and influence what persists after death.**
-
----
-
-
-
-<br />
 
 {{< steamwidget >}}
 
