@@ -14,13 +14,8 @@ vid: "/reels/demoreel.webm"
 
 <br />
 
-<!--{{< figure src="/buttons/wishlistbutton.png" >}}-->
-
 [![Wishlist on Steam](/buttons/wishlistbutton.png)](https://store.steampowered.com/app/1928030?utm_source=rbawebsite)
 
-<!--{{< steamwidget >}}
-
-{{< itchwidget >}}-->
 
 ---
 
