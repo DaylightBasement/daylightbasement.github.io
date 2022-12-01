@@ -5,6 +5,7 @@ title: "Rightfully, Beary Arms"
 subtitle: "A quirky space-bear roguelite where you influence player-enemy upgrades, loot weapons, and influence what persists after death."
 type: "page"
 vid: "/reels/demoreel.webm"
+pic: "/rba/keyart1280x720.png"
 ---
 
 
