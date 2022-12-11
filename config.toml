@@ -61,11 +61,11 @@ googleAnalytics = "G-335JLZVL9V"
   url = "/games/rightfullybearyarms/"
   weight = 1
 
-[[menu.main]]
-  identifier = "patchnotes"
-  name = "Patch Notes"
-  url = "/patch"
-  weight = 3
+#[[menu.main]]
+#  identifier = "patchnotes"
+#  name = "Patch Notes"
+#  url = "/patch"
+#  weight = 3
 
 [[menu.main]]
   identifier = "about"

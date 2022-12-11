@@ -3,9 +3,10 @@
 draft: false
 title: "Rightfully, Beary Arms"
 subtitle: "A quirky space-bear roguelite where you influence player-enemy upgrades, loot weapons, and influence what persists after death."
-type: "page"
+type: "gamepage"
 vid: "/reels/demoreel.webm"
 pic: "/rba/keyart1280x720.png"
+link: "https://store.steampowered.com/app/1928030?utm_source=rbawebsite"
 ---
 
 
@@ -15,7 +16,7 @@ pic: "/rba/keyart1280x720.png"
 
 <br />
 
-[![Wishlist on Steam](/buttons/wishlistbutton.png)](https://store.steampowered.com/app/1928030?utm_source=rbawebsite)
+[![Wishlist on Steam](/buttons/WishlistOnSteamBanner.png)](https://store.steampowered.com/app/1928030?utm_source=rbawebsite)
 
 
 ---
@@ -60,9 +61,7 @@ Fight against unique enemy factions. Each faction possesses their own traits and
   {{< figure src="/stills/2022/Q4/FISH.png" caption="Enjoy the world views">}}
 
 
-  {{< figure link="/rba/rba-crash-poster.png" caption="Don't fall Prey" alt="Don't fall Prey">}}
-  {{< figure src="/rba/rbaposterog2filter.png" caption="Illustration done by @teresa.lacks <3 -- teresalacks.wixsite.com/artist">}}
-  {{< figure link="/rba/spaceemblem.png" caption="rba space emblem" alt="space emblem">}}
+  {{< figure link="/rba/keyart1280x720.png" caption="<3" alt="Beary Arms Key Art">}}
 {{< /gallery >}}
 
 
