@@ -62,6 +62,7 @@ Fight against unique enemy factions. Each faction possesses their own traits and
 
 
   {{< figure link="/rba/keyart1280x720.png" caption="<3" alt="Beary Arms Key Art">}}
+  {{< figure link="/rba/phonebackground.png" caption="phone wallpaper" alt="Phone background">}}
 {{< /gallery >}}
 
 
