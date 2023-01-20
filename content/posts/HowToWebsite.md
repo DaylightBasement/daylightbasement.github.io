@@ -77,6 +77,6 @@ And that's it. Give GitHub some time to correctly route to your new website. But
 
 The last thing we can do is change the [domain name](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site). This does require you to buy a domain name.
 
-## Recap
+## Workflow
 
-So to recap. We are leveraging a static generator to create web files that are hosted on GitHub pages. To publish new pages
+Now that everything is connected and configure, all we have to do is add Markdown content under the `content/` folder then build the website using `$ hugo` command. We then push all of our local code to GitHub where GitHub pages deploys and hosts our website.
