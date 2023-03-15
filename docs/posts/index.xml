@@ -8,7 +8,19 @@
     <language>en-us</language>
     <managingEditor>games@daylightbasementstudio.com (dbstudio)</managingEditor>
     <webMaster>games@daylightbasementstudio.com (dbstudio)</webMaster>
-    <lastBuildDate>Thu, 04 Aug 2022 00:42:16 -0400</lastBuildDate><atom:link href="https://daylightbasementstudio.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Jan 2023 00:42:16 -0400</lastBuildDate><atom:link href="https://daylightbasementstudio.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to create and host a website on the cheap</title>
+      <link>https://daylightbasementstudio.com/posts/howtowebsite/</link>
+      <pubDate>Sun, 15 Jan 2023 00:42:16 -0400</pubDate>
+      <author>games@daylightbasementstudio.com (dbstudio)</author>
+      <guid>https://daylightbasementstudio.com/posts/howtowebsite/</guid>
+      <description>A guide for gamedevs to create professional looking website that are highly customizable and can be easily scaled out for features.
+Oh hey, you can look at ours as an example
+TLDR The Problem Many website builders, while easy to build, are financially costly. But building a website from scratch has a high effort cost.
+Solution Use a static website generator like Hugo hosted on GitHub Pages for a no financial and low effort cost website.</description>
+    </item>
+    
     <item>
       <title>Come play a demo at Mill5</title>
       <link>https://daylightbasementstudio.com/posts/mill5/</link>
