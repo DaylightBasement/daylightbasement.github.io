@@ -13,10 +13,6 @@
       <name>Windows and Linux</name>
       <!--<link>Coming soon</link>-->
     </platform>
-     <platform>
-      <name>XBox</name>
-      <!--<link>Coming soon</link>-->
-    </platform>
   </platforms>
 
   <prices>
