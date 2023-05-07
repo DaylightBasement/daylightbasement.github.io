@@ -21,18 +21,18 @@ link: "https://store.steampowered.com/app/1928030?utm_source=rbawebsite"
 
 ---
 
-_Rightfully, Beary Arms_ is a bullet hell roguelite that is about more than collecting loot, dying, and then losing everything. Carefully choose enemy upgrades against your own. Plan your dungeon crawl tactfully to gun through unique factions of enemies and strategically preserve loot after death.
+_Rightfully, Beary Arms_ is a bullet hell roguelite that is about much more than collecting loot, dying and losing everything, then repeating. Carefully choose enemy upgrades against your own, then plan your dungeon crawl tactfully to gun through unique factions of enemies, strategically preserving loot after death.
 
 
 {{< webm "/reels/headers-arsenal.webm" "">}}
 
-Beary Likes to fight. His arsenal is vast but displaced throughout the galaxy. Collect and use powerful weapons with their own unique characteristics and learning curves. Beary’s arsenal ranges from unusual weapons like a cat that fires rainbow lasers (Catling gun) to realistic Soviet inspired Mosin Nagants. Find your favorite weapon and keep Beary alive. Oh, one more thing. Beary doesn’t lose collected weapons upon death.
+Beary likes to fight. His arsenal is vast but displaced throughout the galaxy. Collect and use powerful weapons, each with their own unique characteristics and learning curves. Beary’s arsenal ranges from unusual weapons like a cat that fires rainbow lasers (Catling gun) to realistic Soviet inspired Mosin Nagants. Find your favorite weapon and keep Beary alive. Oh, one more thing. Beary doesn’t lose collected weapons upon death.
 
 
 
 {{< webm "/reels/headers-calamities.webm" "">}}
 
-As Beary grows stronger within a run, so do his enemies – but you have a choice in how enemies get stronger. Will an enemy faction gain a new enemy? Will health drops be more sparse? Will an enemy gain a new ability? Lose your loot? The choice is yours. It ain’t a good choice to have, though.
+As Beary grows stronger within a run, so do his enemies – but you have a choice in how enemies get stronger. Will an enemy faction gain a new enemy? Will health drops be more sparse? Will an enemy gain a new ability? Lose your loot? Though not always a good one, the choice is yours.
 
 {{< webm "/reels/headers-runtimes.webm" "">}}
 
