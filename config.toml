@@ -26,7 +26,7 @@ googleAnalytics = "G-335JLZVL9V"
   showRelatedPosts = true
 
 [[Params.bigimg]]
-  src = "rba/rba-crash-poster.png"
+  src = "rba/kayart5000x2812-nologo.png"
   desc = "Rightfully, Beary Arms"
 
 
@@ -60,6 +60,26 @@ googleAnalytics = "G-335JLZVL9V"
   name = "rightfully beary arms"
   url = "/games/rightfullybearyarms/"
   weight = 1
+
+[[menu.main]]
+  identifier = "presskit"
+  name = "Press Kit"
+  url = "/press"
+  weight = 4
+
+[[menu.main]]
+  identifier = "rbaPress"
+  parent = "presskit"
+  name = "rightfully beary arms"
+  url = "/press/rba/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "dbsPress"
+  parent = "presskit"
+  name = "Daylight Basement Studio"
+  url = "/press/"
+  weight = 2
 
 #[[menu.main]]
 #  identifier = "patchnotes"
