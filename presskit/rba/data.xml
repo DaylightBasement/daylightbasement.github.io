@@ -11,14 +11,14 @@
   <platforms>
     <platform>
       <name>Windows and Linux</name>
-      <!--<link>Coming soon</link>-->
+      <link>https://store.steampowered.com/app/1928030/Rightfully_Beary_Arms/</link>
     </platform>
   </platforms>
 
   <prices>
     <price>
       <currency>USD</currency>
-      <value>TBD</value>
+      <value>$9.99</value>
     </price>
   </prices>
 
