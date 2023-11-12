@@ -13,4 +13,4 @@ April likes people.
 
 ### Press?
 
-[Presskit](https://daylightbasementstudio.com/press/)
+[Presskit](https://press.daylightbasementstudio.com/)
