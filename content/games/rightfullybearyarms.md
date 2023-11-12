@@ -3,7 +3,7 @@
 draft: false
 title: "Rightfully, Beary Arms"
 subtitle: "A quirky space-bear roguelite where you influence player-enemy upgrades, loot weapons, and influence what persists after death."
-type: "gamepage"
+#type: "gamepage"
 vid: "/reels/demoreel.webm"
 pic: "/rba/keyart1280x720.png"
 link: "https://store.steampowered.com/app/1928030?utm_source=rbawebsite"
@@ -72,4 +72,4 @@ Fight against unique enemy factions. Each faction possesses their own traits and
 
 ### Press
 
-[Presskit](https://daylightbasementstudio.com/press/rba)
+[Presskit](https://press.rbagame.com)

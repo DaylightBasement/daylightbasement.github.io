@@ -39,7 +39,7 @@ googleAnalytics = "G-335JLZVL9V"
   youtube = "channel/UCzTDyrptoPeAI7PSxHWb-Kg"
   subreddit = "rightfullybearyarms"
   twitter = "DayliteBasement"
-  press = "https://daylightbasementstudio.com/press/rba/"
+  press = "https://press.daylightbasementstudio.com"
   email = "games@daylightbasementstudio.com"
 
 [[menu.main]]
@@ -64,21 +64,21 @@ googleAnalytics = "G-335JLZVL9V"
 [[menu.main]]
   identifier = "presskit"
   name = "Press Kit"
-  url = "/press"
+  url = "https://press.daylightbasementstudio.com"
   weight = 4
 
 [[menu.main]]
   identifier = "rbaPress"
   parent = "presskit"
   name = "rightfully beary arms"
-  url = "/press/rba/"
+  url = "https://press.rbagame.com"
   weight = 1
 
 [[menu.main]]
   identifier = "dbsPress"
   parent = "presskit"
   name = "Daylight Basement Studio"
-  url = "/press/"
+  url = "https://press.daylightbasementstudio.com"
   weight = 2
 
 #[[menu.main]]
