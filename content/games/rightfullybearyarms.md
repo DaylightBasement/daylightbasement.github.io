@@ -16,7 +16,7 @@ link: "https://store.steampowered.com/app/1928030?utm_source=rbawebsite"
 
 <br />
 
-[![Wishlist on Steam](/buttons/WishlistOnSteamBanner.png)](https://store.steampowered.com/app/1928030?utm_source=rbawebsite)
+{{< steamwidget >}}
 
 
 ---
@@ -27,7 +27,6 @@ _Rightfully, Beary Arms_ is a bullet hell roguelite that is about much more than
 {{< webm "/reels/headers-arsenal.webm" "">}}
 
 Beary likes to fight. His arsenal is vast but displaced throughout the galaxy. Collect and use powerful weapons, each with their own unique characteristics and learning curves. Beary’s arsenal ranges from unusual weapons like a cat that fires rainbow lasers (Catling gun) to realistic Soviet inspired Mosin Nagants. Find your favorite weapon and keep Beary alive. Oh, one more thing. Beary doesn’t lose collected weapons upon death.
-
 
 
 {{< webm "/reels/headers-calamities.webm" "">}}
