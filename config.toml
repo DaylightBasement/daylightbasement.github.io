@@ -92,3 +92,15 @@ googleAnalytics = "G-335JLZVL9V"
   name = "about"
   url = "/about/"
   weight = 4
+
+[[menu.main]]
+  identifier = "socials"
+  name = "socials"
+  url = "https://linktr.ee/daylightbasementstudio"
+  weight = 5
+
+  [[menu.main]]
+  identifier = "merch"
+  name = "merch"
+  url = "https://daylightbasementstudio.square.site"
+  weight = 6
