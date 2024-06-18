@@ -11,6 +11,12 @@ Chris and Mike like games.
 ![Progression](/av.png)
 April likes people.
 
+---
+
+## Frequent Collaborators
+
+![Progression](/gr-lg.png)
+Garrett likes noise.
 
 ---
 
