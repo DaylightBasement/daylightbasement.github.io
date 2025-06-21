@@ -62,6 +62,13 @@ googleAnalytics = "G-335JLZVL9V"
   weight = 1
 
 [[menu.main]]
+  identifier = "othergames"
+  parent = "games"
+  name = "other games"
+  url = "/games/othergames/"
+  weight = 2
+
+[[menu.main]]
   identifier = "presskit"
   name = "Press Kit"
   url = "https://press.daylightbasementstudio.com"
