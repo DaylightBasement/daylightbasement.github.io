@@ -19,6 +19,11 @@ link: "https://store.steampowered.com/app/1928030?utm_source=rbawebsite"
 {{< steamwidget >}}
 
 
+### Available On
+
+
+{{< availableon >}}
+
 ---
 
 Don’t be fooled by its cuteness. _Rightfully, Beary Arms_ is a bullet hell, roguelite that will punish and reward you. Augment weapons to create unique weapon builds, pick rewards as you explore levels, alter mechanics to your benefit and peril, fight, die, become stronger, and do it all over again.
