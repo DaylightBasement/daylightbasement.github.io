@@ -824,3 +824,19 @@ h4.see-also {
  ul.share li:hover .fab {
   transform: scale(1.4)
 }
+
+.col {
+  flex: 33.33%;
+  padding: 25px;
+}
+
+.row {
+  display: flex;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
