@@ -43,3 +43,8 @@ Our games are intended for general audiences. We do not knowingly collect person
 
 ## 6. Changes to This Policy  
 We may update this Privacy Policy from time to time. Any changes will be posted with an updated “Last Updated” date.
+
+---
+
+## 7. Contact  
+For any questions or concerns, contact support@daylightbasementstudio.com
