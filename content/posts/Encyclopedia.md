@@ -10,15 +10,6 @@ Rightfully, Beary Arms' official release brings dozens of different collectibles
 
 Below, you can find a list of every collectible in the game.
 
-## Table Of Contents
-
-- [Weapons](#Weapons)
-- [Calamities](#Calamities)
-- [Wardrobes](#Wardrobes)
-- [Prooves](#Prooves)
-- [Mementos](#Mementos)
-- [Galaxy Master Mementos](#GalaxyMasterMementos)
-
 ## Weapons
 
 The game has more than two dozen weapons to use, all with their own unique classifications, ranges, fire rates, magazine sizes, and more.
