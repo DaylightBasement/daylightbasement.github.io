@@ -43,6 +43,39 @@ Below, you can find a list of all of the weapons to discover in the game.
 | Shotgun | Power | 3 | 60 | 55 | 500 | 10 | 245 | 1.5 | 8 | 0 | 2800 | 4 | I & II | A shotgun is a firearm that is usually designed to be fired from the shoulder, which uses the energy of a fixed shell to fire a number of small spherical pellets called shot. |
 | Squirt | Entry | 2 | 800 | 15 | 300 | 1 | 200 | 1 | 10 | 0 | 700 | 3 | I | To be a kid again. |
 
+## Runtimes
+
+Runtimes are run specific buffs that can be obtained throughout Beary’s dungeon explorations. These buffs can increase movement speed, allow your weapons to deal more damage, and even increase your percentage likelihood for Inspiration Point drops. Runtimes bolster many different types of positive effects for Beary and will help you on your playthroughs.
+
+Below, you can find a list of all of the Runtimes and what each Runtime does to help Beary on your runs.
+
+
+| Runtime                   | Description                                                                                                                               |
+|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Ah, that's the stuff      | Increase additional rate of fire of weapons by 25%                                                                                        |
+| Aunt Sam's Birthday Card  | Get 3000 plu now                                                                                                                          |
+| Blader's Cover            | Beary's dash cooldown is reduced based on the combined movement speed of all nearby enemies. Faster enemies means more dashing for Beary. |
+| Coupon clipper            | Gives an additional 25% discount at stores.                                                                                               |
+| Directors cut             | Runtime will be 20% more likely to be found when indicated on the intelligence report.<br>Also, fun fact: This stacks up to 5 times.      |
+| Drops of plupiter         | Increase the amount of plu picked up by 40%                                                                                               |
+| Health every, where?      | Health is 100% more likely to be dropped when shown as a possible dungeon reward.                                                         |
+| Inspiration comes easy    | When you die you will recieve 2 inspiration.                                                                                              |
+| Mercenary                 | Pixelating an enemy transfers 5 plu to Beary. "Keep your head down, do your job, and Joy Stick Nick will treat ya right."                 |
+| Motivated                 | Acquiring plu gives Beary a small temporary speed boost.                                                                                  |
+| One live, live forever    | Health packs will give 1 extra heart                                                                                                      |
+| Pay To Not Play           | For every 500 plu spent decrease boss health by 1%                                                                                        |
+| Pluping all over          | Plu is 20% more likely to be dropped when shown as a possible dungeon reward.                                                             |
+| Plutocracy                | Instantly consume all of Beary's plu and gain an extra 1 damage to all weapons for every 1500 plu consumed.                               |
+| Plutonomy                 | Any plu Beary has upon death will carry over to the next run.                                                                             |
+| Scootin'                  | Dash Cooldown reduced by 30%.                                                                                                             |
+| Slow down cow, boy!       | Enemies movement will be decreased by 20%                                                                                                 |
+| The eye of the bee holder | Gives crates a chance to drop health.                                                                                                     |
+| They're getting weak      | Decrease enemies overall health by 15%                                                                                                    |
+| Tinkerer                  | All weapons receive two additional augmentation slot                                                                                      |
+| Weapons every, where?     | Weapons, regardless of quality, are 100% more likely to be dropped when shown as a possible dungeon reward.                               |
+| Where are those woods?    | Beary urgently needs to find the woods. Movement speed increases by 30%                                                                   |
+| You inspire me            | Inspiration is 20% more likely to be dropped when shown as a possible dungeon reward.                                                     |
+| You're a survivor         | Gain a heart. Existing hearts refill +25%.                                                                                                |
 
 
 ## Calamities

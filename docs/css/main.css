@@ -690,24 +690,23 @@ table {
   padding: 0;
 }
 table tr {
-  border-top: 1px solid #141127;
-  background-color: #1f1b3c;
+  border-top: 1px solid #cccccc;
+  background-color: #FFFAF3ff;
   margin: 0;
   padding: 0;
 }
 table tr:nth-child(2n) {
-  background-color: #1f1b3c;
+  background-color: #f8f8f8;
 }
 table tr th {
   font-weight: bold;
-  border: 1px solid #1f1b3c;
+  border: 1px solid #cccccc;
   text-align: left;
   margin: 0;
   padding: 6px 13px;
 }
 table tr td {
-  border: 1px solid #141127;
-  background-color: #1f1b3c;
+  border: 1px solid #cccccc;
   text-align: left;
   margin: 0;
   padding: 6px 13px;
