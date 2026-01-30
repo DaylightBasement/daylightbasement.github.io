@@ -1,67 +1,58 @@
 ---
-title: "RBA Tips and Tricks"
+title: "Rightfully, Beary Arms Beginner’s Tips and Guide"
 date: 2026-01-29T11:00:44-05:00
 draft: false
 ---
 
 # RBA Tips and Tricks
 
-## Get Inspirtation and Prooves Early
+Rightfully, Beary Arms has been in Early Access for more than two years, and now, with its official release this week, you can take control of Beary in our latest 1.0 update. The game boasts more than two dozen weapons to fend off enemies, memories/mementos to (re)discover, augmentations to alter munitions, unique builds for each run, and trying to survive a cute but tough roguelite bullet hell. This Beginner’s Guide will cover the critical essentials for the early game on your venture outside of Beary’s Bedroom!
 
-Prooves are permanent upgrades that can be purchased at the beginning of a run using inspiration.Inspiration is a currency that can only be used to purchase prooves. Inspiration and Prooves are both kept even if Beary dies.Inspiration can be spent at the proove machine in the bedroom. It can be really helpful to get some extra hearts and extra weapon damage to make it further into the game. It is like a candy machine, but unlike a candy machine no matter how much you use it, it will never give you diabetes.
+## Invigorating Inspirational Improovements
+
+Throughout Beary’s journey, you will find Inspiration Points, which can be used to permanently upgrade Beary. Things like Weapons, Augmentations, and Calamities do not carry over through each run, but Inspiration Points do.
+
+After completing the first dungeon in each run and each subsequent dungeon, you can see the percentage of drops in the next dungeon, such as the chance of Augmentations, Weapon drops, and Inspiration Points that can drop. For your several runs, it is ideal to always choose Inspiration Points for a dungeon reward, since you can use Inspiration at the Improve Machine to upgrade maximum health, increase damage from all weapons, and more.
+
 
 ![proove](/tips/image6.jpg)
 
-## Mementos give double inspiration, Bosses always give inspiration
+You can also better your chances of obtaining Inspiration Points by obtaining Runtimes such as the Inspiration Comes Easy or the You Inspire Me Runtime, to receive two Inspiration Points upon death and increase the likelihood of Inspiration Points dropping.
 
-Mementos are collectibles that remind you of the past. They have a low chance to spawn, and they give a little bit of backstory and also provide two inspiration points. It is usually worth it, especially early game to get mementos so you can build out your proove tree. Killing bosses also guarantees Inspiration points.
+The initial nodes of Health, Weapon, Economic, and Skill paths are ideal to unlock, since they only cost one Inspiration Point each, but the requirements for additional nodes on paths warrant more Inspiration Points. It will take many runs to unlock each node in the Health, Weapon, and Economic paths, but the Skill path, which increases the cooldown of Beary’s dash, only has four nodes in total to unlock. 
+
+It is optimal for the Skill path to be maxed out first before other paths, since dashing makes Beary invulnerable, cross gaps, reposition, and dodge incoming bullets. By allocating your Inspiration Points to the final node in Skill, Beary will have zero cooldown of dashes, so as long as he has a single heart left, you can zip around with the Remove Your Limits Skill. Dashing is one of the core mechanics to use in Rightfully, Beary Arms.
 
 ![memento](/tips/image5.jpg)
 
-## Build one weapon first, then get a higher rarity weapon that you can build as you progress.
+## We Truly Live in a Plutocracy
 
-All weapons can be enhanced by augmentations. This allows for even the most basic weapons to be turned into room clearing super weapons. Different weapon classes have a different number of augmentation slots. Entry weapons have a lower slot count than power weapons. Super weapons have the most number of slots. Entry weapons with a couple of augmentations can be a great way to get to the mid way of a run; however, getting a power weapon or super weapon and slowly augmenting the weapon is a great way to have a transition plan for late run enemies and bosses.
+Plu is the in-game currency found in Rightfully, Beary Arms, which can be looted from enemies, obtained as drops in large quantities, and even found in destructible crates. Plu does not carry over each run, but you can use the currency to purchase Weapons, Augmentations, and Health Packs in the stores.
 
-![weapons](/tips/image7.jpg)
-
-## As a result of loose monetary policy, plu is abundant if you want it to be.
-
-Plu is a currency that is used to buy goods. It is often stored loosely in crates, carried in the pockets of enemies, and sometimes even pops out of chests that are mysteriously beamed into rooms after you have thoughtlessly slaughtered all of the enemies. Actively seeking plu will give you a lifestyle that bears have only ever been able to dream of. Alternatively, you might find yourself taking hits from Cheryls bird feeder while she is out restocking her sewing supplies.
-
-![plu](/tips/image2.jpg)
-
-## Shops always have a health pack and augmentations
-
-Maybe you got shot in the knee by a maniacal pig who stole a shotgun out of your uncle Roys pickup, or maybe splashed in the face with some unpasteurized milk by a boo bee. Regardless of the cause, if you’ve taken damage and are in a bind for health and have some extra plu to spend, stores also operate as a walk-in clinic and always have a health pack to purchase. It is quite pricey, as healthcare is, but it can be really useful in a bind. Stores also usually have an augmentation to purchase as well. Later in the run, stores can have multiple augmentations to purchase and you can upgrade a particular weapon really fast if you have the plu to spare.
 
 ![shops](/tips/image1.jpg)
 
-## A never ending calamity, or is it? Calamities aren’t always ‘bad’
+If you decide to hoard Plu and not use any in the stores on a run, it is best to grab a Runtime such as Plutocracy. The Plutocracy Runtime will consume all of Beary’s Plu and grant you an extra point of damage for each 1500 Plu consumed. If you love to go shopping in the store, then the Pay To Not Play Runtime will decrease boss health by 1% for every 500 Plu spent. Both of these Runtimes can turn the tide of the hectic dungeons to make them more manageable for you.
 
-Calamities are upgrades that give the enemies an edge. They may buff enemies directly, or alter systems to Bearys disadvantage. When defeating a boss you are forced to choose a calamity. They are reset upon death. Buffing certain things for enemies can be beneficial or non factor to the player. For instance, increasing store prices when the player is focusing on runtimes that don’t maximize plu doesn’t really affect the player. Some runtimes buff beary based on enemy movement speed, so increasing the enemy movement speed can benefit you.
+
+## Nooks and Crannies
+
+Some dungeons can be behemoths to conquer for Beary, with several large rooms to trek. Be sure to destroy any of the destructible crates to obtain additional Plu, and also by choosing The Eye of the Bee Holder Runtime, crates have the opportunity to drop health, as well.
+
+![plu](/tips/image2.jpg)
+
+Before going straight to the Teleporter, open your map up to do a quick scan of any areas in that level you may have missed. You do not want to go to the next dungeon and forget to pick up a Memento or a fashionable outfit for Beary’s Wardrobe. Beary cannot fight enemies without looking cute.
+
+## Corrosive Calamities
+
+Calamities are negative effects that will hurt you throughout a run, and multiple Calamities can stack to make these effects harm Beary greater. Decreasing movement speed, increasing enemy waves, and even increasing shop prices in a run can all be inflicted by Calamities.
+
+To mitigate the corroding effects of Calamities, choose Calamities that will be either neutral or not directly dampen your run. For example, if you find yourself picking up excellent Weapons like the Squirt Gun and granting it Augmentations, then rather than visiting a shop on a run, choose the Inflation Calamity, which will increase store costs by 50%. Since your run is not going to have Beary shopping, then forgo the shopping altogether due to the price gouging.
 
 ![calamity](/tips/image4.jpg)
 
-## Experiment with runtimes
+If you decide to choose a Calamity like BadBerries, Beary will have his movement speed decreased, but that means that you should employ the usage of your dash more often, rather than scampering around to make up for the movement speed loss. 
 
-Runtimes are upgrades that give Beary an edge. This can be in ways that directly buff Beary, by debuffing enemies, or by altering systems to Bearys advantage. Runtimes are given as dungeon rewards and can be purchased in stores. Any activated runtimes will reset upon death so feel free to experiment with them. Stacking runtimes can be a really great way to buff your run.
+Hopefully, these beginner’s tips will aid your upcoming runs, and do not forget the acronym ABD, as we like to call it. Always Be Dashing. 
 
-![runtime](/tips/image10.jpg)
-
-## Dashes negate enemy damage
-
-ALWAYS BE DASHING (ABD) is what we say. It's an easy way to move fast around the world but also negates lots of enemy damage.
-
-![dash](/tips/image8.jpg)
-
-## Careful when dashing around the docks, it can be easy to fall into the water.
-
-That being said, When at the docks and the final Galaxy, it can be easy to fall into the water so just remember to move the direction you want beary to go then dash.
-
-![docks](/tips/image3.jpg)
-
-## All weapons have their niche, especially with the certain augs.
-
-Some weapons, especially some late game weapons like Power and Super weapons, can seem weak. But late game weapons have higher aug quality and more aug slots and can be over powered with the correct build.
-
-![augs](/tips/image9.jpg)
+Be sure to check out our [Encyclopedia](https://daylightbasementstudio.com/posts/encyclopedia/) page for Weapon, Calamity, Runtime, Memento lists, and more.
