@@ -66,7 +66,6 @@ Below, you can find a list of all of the Runtimes and what each Runtime does to 
 | Pay To Not Play           | For every 500 plu spent decrease boss health by 1%                                                                                        |
 | Pluping all over          | Plu is 20% more likely to be dropped when shown as a possible dungeon reward.                                                             |
 | Plutocracy                | Instantly consume all of Beary's plu and gain an extra 1 damage to all weapons for every 1500 plu consumed.                               |
-| Plutonomy                 | Any plu Beary has upon death will carry over to the next run.                                                                             |
 | Scootin'                  | Dash Cooldown reduced by 30%.                                                                                                             |
 | Slow down cow, boy!       | Enemies movement will be decreased by 20%                                                                                                 |
 | The eye of the bee holder | Gives crates a chance to drop health.                                                                                                     |
